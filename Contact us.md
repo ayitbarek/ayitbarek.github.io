@@ -1,7 +1,9 @@
 ---
-layout: page
-title: Address
+layout: default
+title: "Address"
+permalink: /address/
 ---
+
 <p>Department of Animal and Food Sciences<br>
 <p>531 S. College Avenue<br>
 <p>051 Townsend Hall<br>
