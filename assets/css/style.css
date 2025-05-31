@@ -23,11 +23,12 @@
   font-weight: bold;
 }
 
-/* Page Layout - Widen Content Area */
+/* Page Layout - Full Width Content */
 .page-content {
-  max-width: 1200px;
+  max-width: 100%;
+  padding: 40px 60px;
   margin: 0 auto;
-  padding: 30px 20px;
+  box-sizing: border-box;
 }
 
 /* Typography */
@@ -53,4 +54,11 @@ a {
 
 a:hover {
   text-decoration: underline;
+}
+
+/* Responsive image scaling */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
