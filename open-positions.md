@@ -24,7 +24,7 @@ How to Apply: Interested candidates should send a cover letter, CV, and contact 
 How to Apply: To apply, send a resume, a brief statement of interest, and an unofficial transcript to [yitbarek@udel.edu](mailto:example@domain.com).
 
 Why Join Us?
-At **ABH-LAB**, we foster a collaborative and supportive environment where team members are encouraged to pursue their research interests and contribute to the broader scientific community. 
+We foster a collaborative and supportive environment where team members are encouraged to pursue their research interests and contribute to the broader scientific community. 
 We offer access to cutting-edge resources, mentoring, and opportunities for professional development.
 
 If you’re passionate about making an impact through research and innovation, **we encourage you to apply!**
