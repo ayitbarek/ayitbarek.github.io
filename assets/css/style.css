@@ -23,11 +23,18 @@
   font-weight: bold;
 }
 
-/* Page Layout - Full Width Content */
+/* Page Layout */
 .page-content {
   max-width: 100%;
   padding: 40px 60px;
   margin: 0 auto;
+  box-sizing: border-box;
+}
+
+/* Override Jekyll Minima wrapper width constraint */
+.wrapper {
+  max-width: 100% !important;
+  padding: 40px 60px;
   box-sizing: border-box;
 }
 
@@ -56,7 +63,7 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Responsive image scaling */
+/* Responsive Images */
 img {
   max-width: 100%;
   height: auto;
