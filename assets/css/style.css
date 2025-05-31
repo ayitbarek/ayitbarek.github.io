@@ -86,10 +86,11 @@
   font-size: 0.85rem;
   color: #666;
   z-index: 999;
-  text-align: left;
-  max-width: 360px; /* Optional: limits width */
+  text-align: left; /* Align text to left */
   box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.05);
+  width: auto;
 }
+
 
 .footer-content {
   margin: 0;
