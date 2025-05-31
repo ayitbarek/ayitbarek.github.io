@@ -1,9 +1,22 @@
+/* Sticky Header */
 .site-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
   background-color: #f8f9fa;
   border-bottom: 1px solid #ddd;
   padding: 10px 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 }
 
+/* Push content below the fixed header */
+.page-content {
+  margin-top: 100px; /* Adjust if your header is taller */
+}
+
+/* Header layout */
 .header-container {
   display: flex;
   align-items: center;
