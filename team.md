@@ -25,7 +25,4 @@ Dr. Yitbarek’s research focuses on avian immunology, mucosal vaccinology, and 
 - Dr. Atul Jadhav:  MSc Student (2023 - 2025) - McGill University
 - Makalah Wolfe: Summer Student - UD Envision (2024) - University of Delaware
 
-  **Contact:**
-"Want to join our lab?" → Link to Open Positions page
-
 
