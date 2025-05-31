@@ -10,7 +10,7 @@ permalink: /team/
 **Dr. Alex Yitbarek**  
 Assistant Professor 
 
-![Alex Yitbarek](https://drive.google.com/uc?export=view&id=1UiUt53gFq611qQHhciuX7ySOlf8JyI5n)
+![](https://drive.google.com/uc?export=view&id=1UiUt53gFq611qQHhciuX7ySOlf8JyI5n)
 
 **Dr. Alex Yitbarek**  
 Principal Investigator  
