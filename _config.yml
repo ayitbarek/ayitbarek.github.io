@@ -23,3 +23,8 @@ plugins:
   - jekyll-seo-tag
 
 markdown: kramdown
+
+# Link to custom CSS
+include:
+  - assets/css/style.css
+
