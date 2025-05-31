@@ -56,3 +56,18 @@
   height: 50px;
   width: auto;
 }
+
+.lab-header-logo {
+  height: 32px;
+  width: 32px;
+  margin-right: 12px;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
