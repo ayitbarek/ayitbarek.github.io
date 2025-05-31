@@ -1,11 +1,10 @@
 <header class="site-header">
-  <div class="header-container">
+  <div class="header-flex">
     <a href="{{ '/' | relative_url }}" class="logo-link">
       <img src="{{ '/assets/Logo.png' | relative_url }}" alt="UD Logo" class="site-logo">
     </a>
-    <div class="title-and-nav">
+    <div class="nav-title-wrapper">
       <h1 class="site-title">{{ site.title }}</h1>
-      {% if site.header_pages %}
       <nav class="site-nav">
         {% for path in site.header_pages %}
           {% assign nav_page = site.pages | where: "path", path | first %}
@@ -14,7 +13,6 @@
           {% endif %}
         {% endfor %}
       </nav>
-      {% endif %}
     </div>
   </div>
 </header>
