@@ -11,12 +11,6 @@
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 }
 
-/* Push content below the fixed header */
-.page-content {
-  margin-top: 100px;
-  padding: 40px 20px;
-}
-
 /* Header layout */
 .header-container {
   display: flex;
@@ -30,6 +24,13 @@
   height: 40px;
   width: auto;
   margin-right: 12px;
+}
+
+/* Right: UD logo */
+.ud-header-logo {
+  height: 40px;
+  width: auto;
+  margin-left: auto;
 }
 
 /* Navigation */
@@ -49,11 +50,13 @@
   text-decoration: underline;
 }
 
-/* Right: UD logo */
-.ud-header-logo {
-  height: 40px;
-  width: auto;
+/* Main content */
+.page-content {
+  margin-top: 12vh; /* header height compensation */
+  padding: 40px 20px;
+  max-width: 1100px;
   margin-left: auto;
+  margin-right: auto;
 }
 
 /* Footer */
@@ -76,4 +79,51 @@
 
 .footer-content a:hover {
   text-decoration: underline;
+}
+
+/* Responsive layout for tablets */
+@media (max-width: 768px) {
+  .header-container {
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .site-nav {
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .lab-header-logo,
+  .ud-header-logo {
+    height: 35px;
+  }
+
+  .page-content {
+    margin-top: 13vh;
+    padding: 20px;
+  }
+}
+
+/* Responsive layout for mobile phones */
+@media (max-width: 480px) {
+  .lab-header-logo,
+  .ud-header-logo {
+    height: 30px;
+  }
+
+  .page-link {
+    font-size: 0.95rem;
+    margin-bottom: 5px;
+  }
+
+  .site-nav {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .page-content {
+    margin-top: 14vh;
+    padding: 15px;
+  }
 }
