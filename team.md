@@ -7,10 +7,9 @@ permalink: /team/
 <!-- Page content starts below -->
 
 
-- Alexander Yitbarek
-
    ![Image Alt](Images/UDPhoto.jpeg) 
-
+    Alexander Yitbarek
+    
 **University Of Delaware:**
 - Sadique Abdallah: PhD Student (2025 - Present)
 - Aaliyah Smith: MSc Student (2024 - Present)
