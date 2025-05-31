@@ -54,3 +54,24 @@
   width: auto;
   margin-left: auto;
 }
+
+.site-footer {
+  background-color: transparent;
+  padding: 30px 20px;
+  text-align: center;
+}
+
+.footer-content {
+  color: #666666; /* Gray */
+  font-size: 0.85rem; /* Smaller font */
+  line-height: 1.5;
+}
+
+.footer-content a {
+  color: #666666;
+  text-decoration: none;
+}
+
+.footer-content a:hover {
+  text-decoration: underline;
+}
