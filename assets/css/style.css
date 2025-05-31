@@ -137,3 +137,7 @@
   margin: 20px auto;
   border-radius: 6px;
 }
+.publications-list {
+  font-size: 0.9rem; /* or 14px */
+  line-height: 1.6;
+}
