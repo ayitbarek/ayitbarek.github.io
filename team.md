@@ -11,7 +11,8 @@ permalink: /team/
 Assistant Professor, Department of Animal and Food Sciences  
 University of Delaware  
 
-![Alex Yitbarek](https://drive.google.com/uc?export=view&id=1UiUt53gFq611qQHhciuX7ySOlf8JyI5n)
+![](https://drive.google.com/uc?export=view&id=1UiUt53gFq611qQHhciuX7ySOlf8JyI5n)
+
 
 Dr. Yitbarek’s research focuses on avian immunology, mucosal vaccinology, and microbiome modulation in poultry. He leads the Yitbarek Lab in addressing major health and production challenges in commercial poultry systems.
     
