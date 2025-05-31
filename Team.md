@@ -1,7 +1,9 @@
 ---
-layout: page
-title: Team
+layout: default
+title: "Team"
+permalink: /team/
 ---
+
 
 - Alexander Yitbarek
 
