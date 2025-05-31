@@ -1,8 +1,25 @@
-# Site settings
-
-title: Avian Health Biology - The University of Delaware
-author: Yitbarek
-
-# Build settings
-markdown: kramdown
+title: "Yitbarek Lab"
+description: "Avian Health Biology — University of Delaware"
 theme: minima
+
+# Add navigation
+header_pages:
+  - index.md
+  - research.md
+  - team.md
+  - publications.md
+  - courses.md
+  - facilities.md
+  - open-positions.md
+  - contact.md
+
+# Optional: social links
+author:
+  name: Dr. Alex Yitbarek
+  email: your_email@udel.edu
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
