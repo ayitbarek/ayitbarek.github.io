@@ -1,34 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-</head>
-<body>
-
-  <header class="site-header">
-    <div class="header-container">
-      <a href="{{ '/' | relative_url }}" class="logo-link">
-        <img src="{{ '/assets/Logo.png' | relative_url }}" alt="UD Logo" class="site-logo">
-      </a>
-      <h1 class="site-title">{{ site.title }}</h1>
+  <footer class="site-footer">
+    <div class="footer-content">
+      <p>{{ site.description }}</p>
+      <p>
+        Department of Animal and Food Sciences<br>
+        531 S. College Avenue<br>
+        051 Townsend Hall<br>
+        Newark, DE 19716<br>
+        Email: <a href="mailto:yitbarek@udel.edu">yitbarek@udel.edu</a>
+      </p>
     </div>
-
-    <!-- ✅ Top Navigation Bar from header_pages in _config.yml -->
-    <nav class="site-nav">
-      {% for page in site.pages %}
-        {% if page.path in site.header_pages %}
-          <a class="page-link" href="{{ page.url | relative_url }}">{{ page.title }}</a>
-        {% endif %}
-      {% endfor %}
-    </nav>
-  </header>
-
-  <main class="page-content">
-    {{ content }}
-  </main>
-
-</body>
-</html>
+  </footer>
