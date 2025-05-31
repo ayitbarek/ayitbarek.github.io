@@ -1,6 +1,6 @@
 title: "Yitbarek Lab"
 description: "Avian Health Biology — University of Delaware"
-remote_theme: just-the-docs/just-the-docs
+remote_theme: "mmistakes/minimal-mistakes"
 
 just_the_docs:
   logo: "/assets/Logo.png"
