@@ -1,9 +1,9 @@
 ---
-title: "Team"
+layout: default
+title: "Publications"
 permalink: /team/
-layout: single
-author_profile: true
 ---
+
 
 
 - Alexander Yitbarek
