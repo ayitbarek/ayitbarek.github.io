@@ -1,25 +1,16 @@
-remote_theme: mmistakes/minimal-mistakes@4.24.0
-
 title: "Yitbarek Lab"
 description: "Avian Health Biology — University of Delaware"
-url: "https://ayitbarek.github.io"
+theme: minima
 
-author:
-  name: "Dr. Alex Yitbarek"
-  avatar: "/assets/Logo.png"
-  bio: "Avian immunology, microbiome, mucosal vaccines"
+# Custom layout + CSS
+include:
+  - assets
+
+author: "Dr. Alex Yitbarek"
+email: "yitbarek@udel.edu"
 
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
 
-# Exclude these folders/files
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
-
-# Theme settings
-minimal_mistakes_skin: default
+markdown: kramdown
