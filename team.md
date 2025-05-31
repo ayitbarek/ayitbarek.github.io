@@ -10,7 +10,11 @@ permalink: /team/
 **Dr. Alex Yitbarek**  
 Assistant Professor 
 
-<img src="https://drive.google.com/uc?export=view&id=1UiUt53gFq611qQHhciuX7ySOlf8JyI5n" alt="Your Name" width="200">
+![Alex Yitbarek](https://drive.google.com/uc?export=view&id=1UiUt53gFq611qQHhciuX7ySOlf8JyI5n)
+
+**Dr. Alex Yitbarek**  
+Principal Investigator  
+Avian Immunology & Microbiome
 
     
 **Graduate Students:**
