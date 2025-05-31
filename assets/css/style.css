@@ -1,3 +1,4 @@
+/* Header Styling */
 .site-header {
   background-color: #f8f9fa;
   border-bottom: 1px solid #ddd;
@@ -20,4 +21,36 @@
   margin: 0;
   color: #003366;
   font-weight: bold;
+}
+
+/* Page Layout - Widen Content Area */
+.page-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 30px 20px;
+}
+
+/* Typography */
+body {
+  font-family: "Segoe UI", sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  background-color: #ffffff;
+  color: #333;
+  margin: 0;
+}
+
+h1, h2, h3 {
+  color: #003366;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
