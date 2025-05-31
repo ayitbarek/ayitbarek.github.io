@@ -45,4 +45,5 @@ We collaborate with colleagues across academia, government, and industry to tran
 
 ---
 
-For more information or to get involved in our research, please [contact us](/contact/).
+For more information about our research or collaboration opportunities, please contact:  
+**Email:** [yitbarek@udel.edu](mailto:yitbarek@udel.edu)
