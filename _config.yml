@@ -7,8 +7,8 @@ header_pages:
   - research.md
   - teaching.md
   - publications.md
-  - facilities.md
   - open-positions.md
+  - facilities.md
   - address.md
 
 include:
