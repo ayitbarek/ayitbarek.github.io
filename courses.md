@@ -6,13 +6,11 @@ permalink: /teaching/
 
 <u><strong>University of Delaware: 2024 - Present<u><strong>
 
-**Undergraduate**
-* [ANFS436: Immunology of Domesticated Animals](Course Files/Course Syllabus.pdf)
+**Undergraduate/Graduate**
+* ANFS436/636: Immunology of Domesticated Animals
+* ANFS455/655: The Gut Microbiome: Microbial and Host Perspectives
 * ANFS111:  Animal and Food Science Exploration
-
-**Graduate**
-* [ANFS636: Immunology of Domesticated Animals](Course Files/Course Syllabus.pdf)
-* [ANFS865: Graduate Student Seminar](ANFS 865 Syllabus - Fall 2023-1.v2.pdf)
+* ANFS865: Graduate Student Seminar
 
 
 <u><strong>McGill University: 2021 - 2024<u><strong>
