@@ -8,7 +8,7 @@ permalink: /team/
 
 ### Principal Investigator
 **Dr. Alex Yitbarek**  
-Associate Professor, Department of Animal and Food Sciences  
+Assistant Professor, Department of Animal and Food Sciences  
 University of Delaware  
 
 ![Alex Yitbarek](https://drive.google.com/uc?export=view&id=1UiUt53gFq611qQHhciuX7ySOlf8JyI5n)
