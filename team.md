@@ -1,8 +1,8 @@
 ---
-layout: default
 title: "Team"
-permalink: /team/
+nav_order: 2
 ---
+
 
 
 - Alexander Yitbarek
