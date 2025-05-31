@@ -14,6 +14,7 @@
 /* Push content below the fixed header */
 .page-content {
   margin-top: 100px;
+  padding: 40px 20px;
 }
 
 /* Header layout */
@@ -55,6 +56,7 @@
   margin-left: auto;
 }
 
+/* Footer */
 .site-footer {
   background-color: transparent;
   padding: 20px 10px;
@@ -62,8 +64,8 @@
 }
 
 .footer-content {
-  color: #666666; /* Gray */
-  font-size: 0.85rem; /* Smaller font */
+  color: #666666;
+  font-size: 0.85rem;
   line-height: 1.5;
 }
 
@@ -75,31 +77,3 @@
 .footer-content a:hover {
   text-decoration: underline;
 }
-
-.sticky-footer {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  background-color: #f8f9fa;
-  border-top: 1px solid #ccc;
-  padding: 4px 6px;  /* Reduced padding */
-  font-size: 0.8rem;  /* Optional: slightly smaller font */
-  color: #666;
-  z-index: 999;
-  text-align: left;
-  box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.05);
-  width: auto;
-}
-
-
-
-.footer-content {
-  margin: 0;
-  color: #666;
-  line-height: 1.4;
-}
-
-.page-content {
-  padding-bottom: 160px; /* create space for sticky footer */
-}
-
