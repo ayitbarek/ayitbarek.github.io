@@ -14,9 +14,8 @@ header_pages:
   - contact.md
 
 # Optional: social links
-author:
-  name: Dr. Alex Yitbarek
-  email: your_email@udel.edu
+author: Dr. Alex Yitbarek
+  email: yitbarek@udel.edu
 
 plugins:
   - jekyll-feed
