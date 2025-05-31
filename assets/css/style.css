@@ -82,14 +82,15 @@
   left: 0;
   background-color: #f8f9fa;
   border-top: 1px solid #ccc;
-  padding: 10px 20px;
-  font-size: 0.85rem;
+  padding: 4px 12px;  /* Reduced padding */
+  font-size: 0.8rem;  /* Optional: slightly smaller font */
   color: #666;
   z-index: 999;
-  text-align: left; /* Align text to left */
+  text-align: left;
   box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.05);
   width: auto;
 }
+
 
 
 .footer-content {
