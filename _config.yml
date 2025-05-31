@@ -15,7 +15,7 @@ header_pages:
 
 # Optional: social links
 author: Dr. Alex Yitbarek
-  email: yitbarek@udel.edu
+email: yitbarek@udel.edu
 
 plugins:
   - jekyll-feed
