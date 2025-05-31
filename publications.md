@@ -4,7 +4,8 @@ title: "Publications"
 permalink: /publications/
 ---
 <div class="publications-list">
-<a href="https://doi.org/10.3390/vaccines12020134" target="_blank">42. Abdelaziz, K., Helmy, Y. A., Yitbarek, A., Hodgins, D. C., Sharafeldin, T. A., & Selim, M. S. (2024). Advances in Poultry Vaccines: Leveraging Biotechnology for Improving Vaccine Development, Stability, and Delivery. Vaccines, 12(2), 134.</a>
+  **2024** 
+* <a href="https://doi.org/10.3390/vaccines12020134" target="_blank">42. Abdelaziz, K., Helmy, Y. A., Yitbarek, A., Hodgins, D. C., Sharafeldin, T. A., & Selim, M. S. (2024). Advances in Poultry Vaccines: Leveraging Biotechnology for Improving Vaccine Development, Stability, and Delivery. Vaccines, 12(2), 134.</a>
 
 <a href="https://doi.org/10.3390/vaccines12020134" target="_blank">41. Taha-Abdelaziz, K., Singh, M., Sharif, S., Sharma, S., Kulkarni, R.R., Alizadeh, M., Yitbarek, A. and Helmy, Y.A., 2023. Intervention Strategies to Control Campylobacter at Different Stages of the Food Chain. Microorganisms, 11(1), p.113.</a>
 
