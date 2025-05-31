@@ -4,6 +4,12 @@ title: "Team"
 permalink: /team/
 ---
 
+<!-- Page content starts below -->
+
+Welcome to the Yitbarek Lab Team page.
+
+Our team is composed of researchers and students focused on avian health and immunology...
+
 
 - Alexander Yitbarek
 
