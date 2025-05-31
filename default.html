@@ -15,6 +15,15 @@
       </a>
       <h1 class="site-title">{{ site.title }}</h1>
     </div>
+
+    <!-- ✅ Top Navigation Bar from header_pages in _config.yml -->
+    <nav class="site-nav">
+      {% for page in site.pages %}
+        {% if page.path in site.header_pages %}
+          <a class="page-link" href="{{ page.url | relative_url }}">{{ page.title }}</a>
+        {% endif %}
+      {% endfor %}
+    </nav>
   </header>
 
   <main class="page-content">
