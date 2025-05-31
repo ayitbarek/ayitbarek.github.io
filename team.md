@@ -1,8 +1,9 @@
 ---
 title: "Team"
-nav_order: 2
+permalink: /team/
+layout: single
+author_profile: true
 ---
-
 
 
 - Alexander Yitbarek
