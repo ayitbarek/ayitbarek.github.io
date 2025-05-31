@@ -8,6 +8,7 @@ permalink: /team/
 
 
    ![Image Alt](Images/UDPhoto.jpeg) 
+    
     Alexander Yitbarek
     
 **University Of Delaware:**
