@@ -14,7 +14,7 @@ permalink: /team/
 **University Of Delaware:**
 - Sadique Abdallah: PhD Student (2025 - Present)
 - Aaliyah Smith: MSc Student (2024 - Present)
-- Donnell Boney: MSc (Non-Thesis: Project Advising) (2025)
+- Donnell Boney Jr.: MSc (Non-Thesis: Project Advising) (2025)
 
 **Lab Allumni:**
 - Ayobami Aboderin: MSc Student (2023 - 2025) - McGill University
