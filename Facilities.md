@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Facilities
+layout: default
+title: "Facilities"
+permalink: /facilities/
 ---
 
 
