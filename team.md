@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Publications"
+title: "Team"
 permalink: /team/
 ---
 
