@@ -1,6 +1,8 @@
 ---
-title: "Team"
-nav_order: 3
+layout: default
+title: "Research"
+permalink: /research/
 ---
+
 
 Comming Soon! 
