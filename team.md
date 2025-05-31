@@ -5,7 +5,6 @@ permalink: /team/
 ---
 
 
-
 - Alexander Yitbarek
 
    ![Image Alt](Images/UDPhoto.jpeg) 
