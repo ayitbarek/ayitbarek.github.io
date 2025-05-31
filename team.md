@@ -10,12 +10,7 @@ permalink: /team/
 **Dr. Alex Yitbarek**  
 Assistant Professor 
 
-![](https://drive.google.com/uc?export=view&id=1UiUt53gFq611qQHhciuX7ySOlf8JyI5n)
-
-**Dr. Alex Yitbarek**  
-Principal Investigator  
-Avian Immunology & Microbiome
-
+<img src="https://drive.google.com/uc?export=view&id=1UiUt53gFq611qQHhciuX7ySOlf8JyI5n" alt="Team Photo" width="200">
     
 **Graduate Students:**
 - Sadique Abdallah: PhD Student (2025 - Present)
