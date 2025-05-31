@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Open Positions"
-permalink: /open positions/
+permalink: /open-positions/
 ---
 
 
