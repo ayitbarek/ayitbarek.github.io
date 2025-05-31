@@ -75,3 +75,21 @@
 .footer-content a:hover {
   text-decoration: underline;
 }
+
+.sticky-footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #f8f9fa;
+  border-top: 1px solid #ccc;
+  text-align: center;
+  padding: 10px 20px;
+  font-size: 0.85rem;
+  color: #666;
+  z-index: 999;
+}
+
+.page-content {
+  padding-bottom: 120px; /* make room for sticky footer */
+}
