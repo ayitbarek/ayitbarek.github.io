@@ -5,11 +5,14 @@ permalink: /team/
 ---
 
 <!-- Page content starts below -->
+# Our Team
 
+![Dr. Alex Yitbarek](https://drive.google.com/uc?export=view&id=1UiUt53gFq611qQHhciuX7ySOlf8JyI5n)
 
-   ![Image](https://drive.google.com/uc?export=view&id=1UiUt53gFq611qQHhciuX7ySOlf8JyI5n)
-    
-    Alexander Yitbarek
+**Dr. Alex Yitbarek**  
+Principal Investigator  
+Avian Immunology & Gut Health  
+Email: yitbarek@udel.edu
     
 **University Of Delaware:**
 - Sadique Abdallah: PhD Student (2025 - Present)
