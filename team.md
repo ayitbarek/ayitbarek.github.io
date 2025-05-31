@@ -7,7 +7,7 @@ permalink: /team/
 <!-- Page content starts below -->
 
 
-   ![Image Alt](Images/UDPhoto.jpeg) 
+   ![Image](https://drive.google.com/uc?export=view&id=1UiUt53gFq611qQHhciuX7ySOlf8JyI5n)
     
     Alexander Yitbarek
     
