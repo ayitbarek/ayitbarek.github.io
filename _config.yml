@@ -1,29 +1,21 @@
 title: "Yitbarek Lab"
 description: "Avian Health Biology — University of Delaware"
-theme: "just-the-docs"
+remote_theme: just-the-docs/just-the-docs
 
-# Just the Docs theme settings
 just_the_docs:
   logo: "/assets/Logo.png"
   favicon_ico: "/assets/favicon.ico"
   color_scheme: light
   search_enabled: true
 
-# Site navigation will be based on page front matter + folders
-# header_pages is not used in Just the Docs
-
-# Author Info (optional for meta tags)
 author: "Dr. Alex Yitbarek"
 email: "yitbarek@udel.edu"
 
-# Plugins
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Markdown settings
 markdown: kramdown
 
-# Include folders manually
 include:
   - assets
