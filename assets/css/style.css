@@ -82,7 +82,7 @@
   left: 0;
   background-color: #f8f9fa;
   border-top: 1px solid #ccc;
-  padding: 2px 12px;  /* Reduced padding */
+  padding: 1px 8px;  /* Reduced padding */
   font-size: 0.8rem;  /* Optional: slightly smaller font */
   color: #666;
   z-index: 999;
