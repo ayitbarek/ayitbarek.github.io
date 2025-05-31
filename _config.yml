@@ -2,7 +2,14 @@ title: "Yitbarek Lab"
 description: "Avian Health Biology — University of Delaware"
 theme: minima
 
-# Custom layout + CSS
+header_pages:
+  - team.md
+  - research.md
+  - teaching.md
+  - publications.md
+  - open-positions.md
+  - address.md
+
 include:
   - assets
 
