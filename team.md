@@ -10,7 +10,7 @@ permalink: /team/
 **Dr. Alex Yitbarek**  
 Assistant Professor 
 
-![Alt Text](https://drive.google.com/uc?export=view&id=1UiUt53gFq611qQHhciuX7ySOlf8JyI5n)
+<img src="https://drive.google.com/uc?export=view&id=1UiUt53gFq611qQHhciuX7ySOlf8JyI5n" alt="Your Name" width="200">
 
     
 **Graduate Students:**
