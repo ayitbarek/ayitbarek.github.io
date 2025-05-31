@@ -1,33 +1,45 @@
-body {
-  font-family: "Segoe UI", sans-serif;
-  font-size: 18px;
-  line-height: 1.75;
-  background-color: #e6f7ff; /* light blue */
-  color: #333;
-  margin: 0; /* No margin needed on body */
+.site-header {
+  background-color: #f8f9fa;
+  border-bottom: 1px solid #ddd;
+  padding: 10px 20px;
 }
 
-/* Main content wrapper */
-.page-content {
-  max-width: 1000px;
-  margin: 40px auto;           /* Centers the content with space above/below */
-  padding: 40px 30px;          /* Internal spacing from left/right edges */
-  background-color: #ffffff;   /* White background for readable content */
-  border-radius: 8px;          /* Optional: soft rounded corners */
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05); /* Optional: subtle card effect */
-  box-sizing: border-box;
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
 
-/* Footer styling */
-.footer-content {
-  text-align: center;
-  padding: 20px;
-  font-size: 0.95rem;
-  color: #666;
+.site-title {
+  font-size: 2rem;
+  margin: 0;
+  color: #003366;
+  font-weight: bold;
 }
 
-.footer-logo {
-  margin-top: 15px;
+.site-nav {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+  margin-left: 20px;
+}
+
+.page-link {
+  font-size: 1rem;
+  color: #003366;
+  text-decoration: none;
+}
+
+.page-link:hover {
+  text-decoration: underline;
+}
+
+.logo-top-right {
+  margin-left: auto;
+}
+
+.top-right-logo {
   height: 50px;
   width: auto;
 }
