@@ -3,10 +3,8 @@ layout: default
 title: "Publications"
 permalink: /publications/
 ---
-<div class="publications-list">
-**2024** 
- 
-** <a href="https://doi.org/10.3390/vaccines12020134" target="_blank">42. Abdelaziz, K., Helmy, Y. A., Yitbarek, A., Hodgins, D. C., Sharafeldin, T. A., & Selim, M. S. (2024). Advances in Poultry Vaccines: Leveraging Biotechnology for Improving Vaccine Development, Stability, and Delivery. Vaccines, 12(2), 134.</a>
+
+<a href="https://doi.org/10.3390/vaccines12020134" target="_blank">42. Abdelaziz, K., Helmy, Y. A., Yitbarek, A., Hodgins, D. C., Sharafeldin, T. A., & Selim, M. S. (2024). Advances in Poultry Vaccines: Leveraging Biotechnology for Improving Vaccine Development, Stability, and Delivery. Vaccines, 12(2), 134.</a>
 
 <a href="https://doi.org/10.3390/vaccines12020134" target="_blank">41. Taha-Abdelaziz, K., Singh, M., Sharif, S., Sharma, S., Kulkarni, R.R., Alizadeh, M., Yitbarek, A. and Helmy, Y.A., 2023. Intervention Strategies to Control Campylobacter at Different Stages of the Food Chain. Microorganisms, 11(1), p.113.</a>
 
@@ -93,4 +91,3 @@ permalink: /publications/
 <a href="https://doi.org/10.3382/ps.2012-02306" target="_blank">2. Munyaka P., H. Echeverry, A. Yitbarek, G. Carmelo-Jaimes, S. Sharif, W. Guenter, J.D. House, and J.C. Rodríguez-Lecompte. (2012). Local and systemic innate immunity in broiler chickens supplemented with yeast-derived carbohydrates. Poultry Science, 91:2164–2172.</a>
 
 <a href="https://doi.org/10.2527/jas.2009-2550" target="_blank">1. Kebreab, E., A.B. Strathe, A. Yitbarek, C.M. Nyachoti, J. Dijkstra, S. Lopez, and J. France. (2011). Modelling the efficiency of phosphorus utilization in growing pigs. Journal of Animal Science. 89:2774–2781.</a>
-</div>
