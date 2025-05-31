@@ -1,7 +1,9 @@
 ---
-layout: page
-title: Open positions
+layout: default
+title: "Open Positions"
+permalink: /open positions/
 ---
+
 
 We are always looking for talented and motivated individuals to join our team. 
 Our lab/department offers an enriching environment where you can develop your skills and contribute to cutting-edge research.
