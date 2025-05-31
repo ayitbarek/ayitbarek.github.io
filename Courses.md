@@ -1,7 +1,9 @@
 ---
-layout: page
-title: Teaching
+layout: default
+title: "Teaching"
+permalink: /teaching/
 ---
+
 <u><strong>University of Delaware: 2024 - Present<u><strong>
 
 **Undergraduate**
