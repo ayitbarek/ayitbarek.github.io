@@ -5,7 +5,7 @@ theme: minima
 header_pages:
   - team.md
   - research.md
-  - teaching.md
+  - courses.md
   - publications.md
   - open-positions.md
   - facilities.md
