@@ -10,8 +10,8 @@ permalink: /facilities/
 
 **Newark Campus**
 
-<img src="/assets/images/poultry-farm-aerial.jpeg" alt="Newark Campus" class="facility-img">
+<img src="/poultry-farm-aerial.jpeg" alt="Newark Campus" class="facility-img">
 
 **Carvel Center: Georgetown, DE**
 
-<img src="/assets/images/CarvelCenter.jpg" alt="Carvel Center" class="facility-img">
+<img src="/CarvelCenter.jpg" alt="Carvel Center" class="facility-img">
