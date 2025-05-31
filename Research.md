@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Research
+layout: default
+title: "Research"
+permalink: /Research/
 ---
 
 Comming Soon! 
