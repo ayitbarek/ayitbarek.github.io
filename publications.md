@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 class: page-publications
 ---
+[2. Munyaka P., H. Echeverry, A. Yitbarek, ... Poultry Science, 91:2164–2172](https://doi.org/10.3382/ps.2012-02306)
 
 <a href="https://doi.org/10.3390/vaccines12020134" target="_blank">42. Abdelaziz, K., Helmy, Y. A., Yitbarek, A., Hodgins, D. C., Sharafeldin, T. A., & Selim, M. S. (2024). Advances in Poultry Vaccines: Leveraging Biotechnology for Improving Vaccine Development, Stability, and Delivery. Vaccines, 12(2), 134.</a>
 
@@ -90,7 +91,5 @@ class: page-publications
 <a href="https://doi.org/10.2527/jas.2011-4184" target="_blank">3. Rodríguez-Lecompte, J.C., A. Yitbarek, J. Brady, S. Sharif, Cavanagh M. D., G. Crow, W. Guenter, J. D. House, G. Camelo-Jaimes. (2012). The effect of microbial-nutrient interaction on the immune system of young chicks following early probiotic and organic acid administration. Journal of Animal Science, 90:2246-2254.</a>
 
 <a href="https://doi.org/10.3382/ps.2012-02306" target="_blank">2. Munyaka P., H. Echeverry, A. Yitbarek, G. Carmelo-Jaimes, S. Sharif, W. Guenter, J.D. House, and J.C. Rodríguez-Lecompte. (2012). Local and systemic innate immunity in broiler chickens supplemented with yeast-derived carbohydrates. Poultry Science, 91:2164–2172.</a>
-
-**2011** 
 
 <a href="https://doi.org/10.2527/jas.2009-2550" target="_blank">1. Kebreab, E., A.B. Strathe, A. Yitbarek, C.M. Nyachoti, J. Dijkstra, S. Lopez, and J. France. (2011). Modelling the efficiency of phosphorus utilization in growing pigs. Journal of Animal Science. 89:2774–2781.</a>
