@@ -41,7 +41,7 @@ We investigate how dietary components, probiotics, and prebiotics influence gut 
 
 ## Collaborations
 
-We collaborate with colleagues across academia, government, and industry to translate research into practical solutions for the poultry sector. Our lab benefits from strong ties with USDA, APHIS, and the commercial poultry industry.
+We collaborate with colleagues across academia, government, and industry to translate research into practical solutions for the poultry industry. 
 
 ---
 
