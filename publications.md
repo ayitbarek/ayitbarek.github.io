@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 class: page-publications
 ---
-[2. Munyaka P., H. Echeverry, A. Yitbarek, ... Poultry Science, 91:2164–2172](https://doi.org/10.3382/ps.2012-02306)
 
 <a href="https://doi.org/10.3390/vaccines12020134" target="_blank">42. Abdelaziz, K., Helmy, Y. A., Yitbarek, A., Hodgins, D. C., Sharafeldin, T. A., & Selim, M. S. (2024). Advances in Poultry Vaccines: Leveraging Biotechnology for Improving Vaccine Development, Stability, and Delivery. Vaccines, 12(2), 134.</a>
 
