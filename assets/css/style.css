@@ -1,20 +1,22 @@
-/* Reset default margin */
+/* Reset default margin and set font */
 body {
   margin: 0;
   font-family: Arial, sans-serif;
+  background-color: #ffffff;
 }
 
-/* Header container that floats at top */
+/* Floating top header */
 .site-header {
-  background-color: #0033A0; /* Deep blue */
+  background-color: #0033A0; /* Deep UD blue */
   position: fixed;
   width: 100%;
   top: 0;
   z-index: 999;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  animation: fadeInDown 0.6s ease-out;
 }
 
-/* Internal flex layout */
+/* Flex layout for logo + nav */
 .header-container {
   display: flex;
   align-items: center;
@@ -22,33 +24,51 @@ body {
   padding: 10px 40px;
 }
 
-/* Lab & UD logo sizing */
+/* Logo sizes */
 .lab-header-logo,
 .ud-header-logo {
   height: 40px;
+  width: auto;
 }
 
-/* Navigation styling */
+/* Navigation layout */
 .site-nav {
   display: flex;
-  gap: 20px;
+  gap: 24px;
 }
 
+/* Navigation link styling */
 .page-link {
   color: white;
   text-decoration: none;
   font-weight: bold;
-  padding: 10px;
+  padding: 8px 12px;
+  border-bottom: 2px solid transparent;
+  transition: all 0.3s ease;
 }
 
+/* Hover effect: underline + slight bg change */
 .page-link:hover {
-  background-color: #002366;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-bottom: 2px solid #ffffff;
   border-radius: 4px;
 }
 
-/* Make sure content starts below header */
+/* Content padding below fixed header */
 .page-content {
   padding-top: 100px;
   padding-left: 20px;
   padding-right: 20px;
+}
+
+/* Optional: Fade-in animation for header */
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
