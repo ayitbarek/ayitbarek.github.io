@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "PUB"
-permalink: /PUB/
+title: "publication2"
+permalink: /publications2/
 ---
 
 ## Publications
