@@ -6,7 +6,7 @@ permalink: /lab-news/
 ## Lab Announcement
 
 <p align="Left">
-  <img src="/Images/chicken-announcement.png" width="200" alt="Our chicken has something to say!">
+  <img src="/Images/chicken-announcement2.png" width="200" alt="Our chicken has something to say!">
 </p>
 
 June 2025: 
