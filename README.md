@@ -32,19 +32,6 @@ We work across **basic immunology**, **microbial ecology**, and **applied poultr
 
 ---
 
-## 📷 Gut Microbiome Visualizations
-
-<p align="center">
-  <img src="/images/NMDS_Bray_IronDose_AMOVA.png" alt="NMDS Plot - Iron Dose (All)" width="180">
-  <img src="/images/NMDS_Bray_IronDose_AMOVA_D14CC.png" alt="NMDS Plot - D14 Cecal Content" width="180">
-  <img src="/images/RA_Top20_Genus_by_IronDose_D14CC.png" alt="RA Genus - D14 Cecal Content" width="180">
-  <img src="/images/RA_Top20_Genus_by_IronDose_D14Swab.png" alt="RA Genus - D14 Swab" width="180">
-</p>
-
-These visualizations show how **iron dosing shapes broiler gut microbiota**, impacting both **community structure** and **taxonomic composition**.
-
----
-
 ## 🧫 Microbiome Insights from Our Recent Study
 
 <p align="center">
