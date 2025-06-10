@@ -6,7 +6,6 @@
   issue: 2
   pages: 134
   doi: https://doi.org/10.3390/vaccines12020134
-
 - title: Intervention strategies to control Campylobacter at different stages of the food chain
   authors: Khaled Taha-Abdelaziz, Mankerat Singh, Shayan Sharif, Shreeya Sharma, Raveendra R Kulkarni, Mohammadali Alizadeh, Alexander Yitbarek, Yosra A Helmy
   journal: Microorganisms
@@ -15,4 +14,12 @@
   issue: 1
   pages: 113
   doi: https://doi.org/10.3390/microorganisms11010113
+- title: Effects of therapeutic levels of dietary antibiotics on the cecal microbiome composition of broiler chickens
+  authors: Seyed Hossien Kairmi, Khaled Taha-Abdelaziz, Alexander Yitbarek, Mehdi Sargolzaei, Heidi Spahany, Jake Astill, Bahram Shojadoost, Mohammadali Alizadeh, Raveendra R Kulkarni, John Parkinson, Shayan Sharif
+  journal: Poultry Science
+  year: 2022
+  volume: 101
+  issue: 6
+  pages: 101864
+  doi: https://doi.org/10.1016/j.psj.2022.101864
 
