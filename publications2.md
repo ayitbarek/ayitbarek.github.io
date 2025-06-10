@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "publication2"
+title: "Publications2"
 permalink: /publications2/
 ---
 
