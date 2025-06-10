@@ -12,8 +12,16 @@ permalink: /publications2/
     <li>
       <strong>{{ pub.authors }}</strong> ({{ pub.year }}).<br>
       <em>{{ pub.title }}</em>.<br>
-      {{ pub.journal }}, <strong>{{ pub.volume }}</strong>({{ pub.issue }}), {{ pub.pages }}.<br>
-      <a href="{{ pub.doi }}" target="_blank">{{ pub.doi }}</a>
+      {% if pub.journal %}
+        {{ pub.journal }}, <strong>{{ pub.volume }}</strong>({{ pub.issue }}), {{ pub.pages }}.<br>
+      {% endif %}
+      {% if pub.patent_office %}
+        Patent {{ pub.patent_office }} - {{ pub.patent_number }} ({{ pub.publication_date }})<br>
+      {% endif %}
+      {% if pub.doi != '' %}
+        <a href="{{ pub.doi }}" target="_blank">{{ pub.doi }}</a>
+      {% endif %}
     </li>
   {% endfor %}
 </ul>
+
