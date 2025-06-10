@@ -1,5 +1,6 @@
-- title: '43. Advances in Poultry Vaccines: Leveraging Biotechnology for Improving
-    Vaccine Development, Stability, and Delivery.'
+- number: 43.0
+  title: 'Advances in Poultry Vaccines: Leveraging Biotechnology for Improving Vaccine
+    Development, Stability, and Delivery.'
   authors: Khaled Abdelaziz, Yosra A Helmy, Alexander Yitbarek, Douglas C Hodgins,
     Tamer A Sharafeldin, Mohamed S H Selim
   journal: Vaccines
@@ -8,8 +9,9 @@
   issue: '2'
   pages: .na.character
   doi: https://doi.org/10.3390/vaccines12020134
-- title: 42. Intervention Strategies to Control Campylobacter at Different Stages
-    of the Food Chain.
+- number: 42.0
+  title: Intervention Strategies to Control Campylobacter at Different Stages of the
+    Food Chain.
   authors: Khaled Taha-Abdelaziz, Mankerat Singh, Shayan Sharif, Shreeya Sharma, Raveendra
     R Kulkarni, Mohammadali Alizadeh, Alexander Yitbarek, Yosra A Helmy
   journal: Microorganisms
@@ -18,7 +20,8 @@
   issue: '1'
   pages: .na.character
   doi: https://doi.org/10.3390/microorganisms11010113
-- title: 41. Effects of therapeutic levels of dietary antibiotics on the cecal microbiome
+- number: 41.0
+  title: Effects of therapeutic levels of dietary antibiotics on the cecal microbiome
     composition of broiler chickens.
   authors: Seyed Hossien Kairmi, Khaled Taha-Abdelaziz, Alexander Yitbarek, Mehdi
     Sargolzaei, Heidi Spahany, Jake Astill, Bahram Shojadoost, Mohammadali Alizadeh,
@@ -29,8 +32,9 @@
   issue: '6'
   pages: '101864'
   doi: https://doi.org/10.1016/j.psj.2022.101864
-- title: 40. Folic acid enhances proinflammatory and antiviral molecular pathways
-    in chicken B-lymphocytes infected with a mild infectious bursal disease virus.
+- number: 40.0
+  title: Folic acid enhances proinflammatory and antiviral molecular pathways in chicken
+    B-lymphocytes infected with a mild infectious bursal disease virus.
   authors: S Uribe-Diaz, N Nazeer, J Jaime, D S Vargas-Bermúdez, A Yitbarek, M Ahmed,
     J C Rodríguez-Lecompte
   journal: British poultry science
@@ -39,8 +43,9 @@
   issue: '1'
   pages: 1-13
   doi: https://doi.org/10.1080/00071668.2021.1958298
-- title: 39. Within-host model of respiratory virus shedding and antibody response
-    to H9N2 avian influenza virus vaccination and infection in chickens.
+- number: 39.0
+  title: Within-host model of respiratory virus shedding and antibody response to
+    H9N2 avian influenza virus vaccination and infection in chickens.
   authors: Xiao-Ting Xie, Alexander Yitbarek, Jake Astill, Shirene Singh, Salah Uddin
     Khan, Shayan Sharif, Zvonimir Poljak, Amy L Greer
   journal: Infectious Disease Modelling
@@ -49,8 +54,9 @@
   issue: .na.character
   pages: 490-502
   doi: https://doi.org/10.1016/j.idm.2021.02.005
-- title: '38. Centennial Review: Effects of vitamins A, D, E, and C on the chicken
-    immune system.'
+- number: 38.0
+  title: 'Centennial Review: Effects of vitamins A, D, E, and C on the chicken immune
+    system.'
   authors: Bahram Shojadoost, Alexander Yitbarek, Mohammadali Alizadeh, Raveendra
     R Kulkarni, Jake Astill, Nitish Boodhoo, Shayan Sharif
   journal: Poultry science
@@ -59,9 +65,10 @@
   issue: '4'
   pages: '100930'
   doi: https://doi.org/10.1016/j.psj.2020.12.027
-- title: 37. Yeast cell wall polysaccharides enhanced expression of T helper type
-    1 and 2 cytokines profile in chicken B lymphocytes exposed to LPS challenge and
-    enzyme treatment.
+- number: 37.0
+  title: Yeast cell wall polysaccharides enhanced expression of T helper type 1 and
+    2 cytokines profile in chicken B lymphocytes exposed to LPS challenge and enzyme
+    treatment.
   authors: H Echeverry, M Alizadeh, A Yitbarek, B Slominski, J C Rodriguez-Lecompte
   journal: British poultry science
   year: 2021
@@ -69,9 +76,10 @@
   issue: '1'
   pages: 125-130
   doi: https://doi.org/10.1080/00071668.2020.1817328
-- title: 36. Differential immunomodulatory effect of vitamin D (1,25 (OH)2 D3) on
-    the innate immune response in different types of cells infected in vitro with
-    infectious bursal disease virus.
+- number: 36.0
+  title: Differential immunomodulatory effect of vitamin D (1,25 (OH)2 D3) on the
+    innate immune response in different types of cells infected in vitro with infectious
+    bursal disease virus.
   authors: J Jaime, D S Vargas-Bermúdez, A Yitbarek, J Reyes, J C Rodríguez-Lecompte
   journal: Poultry science
   year: 2020
@@ -79,8 +87,9 @@
   issue: '9'
   pages: 4265-4277
   doi: https://doi.org/10.1016/j.psj.2020.06.006
-- title: 35. Epigenetic effect of folic acid (FA) on the gene proximal promoter area
-    and mRNA expression of chicken B cell as antigen presenting cells.
+- number: 35.0
+  title: Epigenetic effect of folic acid (FA) on the gene proximal promoter area and
+    mRNA expression of chicken B cell as antigen presenting cells.
   authors: O Elad, S Uribe-Diaz, D Losada-Medina, A Yitbarek, S Sharif, J C Rodriguez-Lecompte
   journal: British poultry science
   year: 2020
@@ -88,8 +97,9 @@
   issue: '6'
   pages: 725-733
   doi: https://doi.org/10.1080/00071668.2020.1799332
-- title: 34. Supplemental dietary selenium enhances immune responses conferred by
-    a vaccine against low pathogenicity avian influenza virus.
+- number: 34.0
+  title: Supplemental dietary selenium enhances immune responses conferred by a vaccine
+    against low pathogenicity avian influenza virus.
   authors: Bahram Shojadoost, Khaled Taha-Abdelaziz, Tamiru Negash Alkie, Alexander
     Bekele-Yitbarek, Neda Barjesteh, Adrianna Laursen, Trevor K Smith, Janan Shojadoost,
     Shayan Sharif
@@ -99,7 +109,8 @@
   issue: .na.character
   pages: '110089'
   doi: https://doi.org/10.1016/j.vetimm.2020.110089
-- title: 33. Identification, tissue characterization, and innate immune role of Angiogenin-4
+- number: 33.0
+  title: Identification, tissue characterization, and innate immune role of Angiogenin-4
     expression in young broiler chickens.
   authors: Daniela Losada-Medina, Alexander Yitbarek, Nauman Nazeer, Santiago Uribe-Diaz,
     Marya Ahmed, Juan C Rodriguez-Lecompte
@@ -109,8 +120,9 @@
   issue: '6'
   pages: 2992-3000
   doi: https://doi.org/10.1016/j.psj.2020.03.022
-- title: 32. A within-host mathematical model of H9N2 avian influenza infection and
-    type-I interferon response pathways in chickens.
+- number: 32.0
+  title: A within-host mathematical model of H9N2 avian influenza infection and type-I
+    interferon response pathways in chickens.
   authors: Xiao-Ting Xie, Alexander Yitbarek, Salah Uddin Khan, Shayan Sharif, Zvonimir
     Poljak, Amy L Greer
   journal: Journal of theoretical biology
@@ -119,7 +131,8 @@
   issue: .na.character
   pages: '110320'
   doi: https://doi.org/10.1016/j.jtbi.2020.110320
-- title: 31. Commensal gut microbiota can modulate adaptive immune responses in chickens
+- number: 31.0
+  title: Commensal gut microbiota can modulate adaptive immune responses in chickens
     vaccinated with whole inactivated avian influenza virus subtype H9N2.
   authors: Alexander Yitbarek, Jake Astill, Douglas C Hodgins, John Parkinson, Éva
     Nagy, Shayan Sharif
@@ -129,8 +142,9 @@
   issue: '44'
   pages: 6640-6647
   doi: https://doi.org/10.1016/j.vaccine.2019.09.046
-- title: '30. Development of innate immunity in chicken embryos and newly hatched
-    chicks: a disease control perspective.'
+- number: 30.0
+  title: 'Development of innate immunity in chicken embryos and newly hatched chicks:
+    a disease control perspective.'
   authors: Tamiru N Alkie, Alexander Yitbarek, Douglas C Hodgins, Raveendra R Kulkarni,
     Khaled Taha-Abdelaziz, Shayan Sharif
   journal: 'Avian pathology : journal of the W.V.P.A'
@@ -139,7 +153,8 @@
   issue: '4'
   pages: 288-310
   doi: https://doi.org/10.1080/03079457.2019.1607966
-- title: 29. Dietary selenium supplementation enhances antiviral immunity in chickens
+- number: 29.0
+  title: Dietary selenium supplementation enhances antiviral immunity in chickens
     challenged with low pathogenic avian influenza virus subtype H9N2.
   authors: Bahram Shojadoost, Raveendra R Kulkarni, Alexander Yitbarek, Adrianna Laursen,
     Khaled Taha-Abdelaziz, Tamiru Negash Alkie, Neda Barjesteh, Wanderly M Quinteiro-Filho,
@@ -150,7 +165,8 @@
   issue: .na.character
   pages: 62-68
   doi: https://doi.org/10.1016/j.vetimm.2018.12.002
-- title: 28. Responses of broiler chickens to Eimeria challenge when fed a nucleotide-rich
+- number: 28.0
+  title: Responses of broiler chickens to Eimeria challenge when fed a nucleotide-rich
     yeast extract.
   authors: H Leung, A Yitbarek, R Snyder, R Patterson, J R Barta, N Karrow, E Kiarie
   journal: Poultry science
@@ -159,8 +175,9 @@
   issue: '4'
   pages: 1622-1633
   doi: https://doi.org/10.3382/ps/pey533
-- title: 27. The effects of in ovo administration of encapsulated Toll-like receptor
-    21 ligand as an adjuvant with Marek's disease vaccine.
+- number: 27.0
+  title: The effects of in ovo administration of encapsulated Toll-like receptor 21
+    ligand as an adjuvant with Marek's disease vaccine.
   authors: Jegarubee Bavananthasivam, Leah Read, Jake Astill, Alexander Yitbarek,
     Tamiru N Alkie, Mohamed Faizal Abdul-Careem, Sarah K Wootton, Shahriar Behboudi,
     Shayan Sharif
@@ -170,7 +187,8 @@
   issue: '1'
   pages: '16370'
   doi: https://doi.org/10.1038/s41598-018-34760-6
-- title: 26. Characterization of immunogenicity of avian influenza antigens encapsulated
+- number: 26.0
+  title: Characterization of immunogenicity of avian influenza antigens encapsulated
     in PLGA nanoparticles following mucosal and subcutaneous delivery in chickens.
   authors: Tamiru Negash Alkie, Alexander Yitbarek, Khaled Taha-Abdelaziz, Jake Astill,
     Shayan Sharif
@@ -180,7 +198,8 @@
   issue: '11'
   pages: e0206324
   doi: https://doi.org/10.1371/journal.pone.0206324
-- title: '25. Author Correction: Gut microbiota-mediated protection against influenza
+- number: 25.0
+  title: 'Author Correction: Gut microbiota-mediated protection against influenza
     virus subtype H9N2 in chickens is associated with modulation of the innate responses.'
   authors: Alexander Yitbarek, Khaled Taha-Abdelaziz, Douglas C Hodgins, Leah Read,
     Éva Nagy, J Scott Weese, Jeff L Caswell, John Parkinson, Shayan Sharif
@@ -190,8 +209,9 @@
   issue: '1'
   pages: '16367'
   doi: https://doi.org/10.1038/s41598-018-34065-8
-- title: 24. A Comparison of Toll-Like Receptor 5 and 21 Ligands as Adjuvants for
-    a Formaldehyde Inactivated H9N2 Avian Influenza Virus Vaccine in Chickens.
+- number: 24.0
+  title: A Comparison of Toll-Like Receptor 5 and 21 Ligands as Adjuvants for a Formaldehyde
+    Inactivated H9N2 Avian Influenza Virus Vaccine in Chickens.
   authors: Jake Astill, Tamiru Alkie, Alexander Yitbarek, Khaled Taha-Abdelaziz, Bahram
     Shojadoost, James John Petrik, Éva Nagy, Shayan Sharif
   journal: Viral immunology
@@ -200,8 +220,9 @@
   issue: '9'
   pages: 605-612
   doi: https://doi.org/10.1089/vim.2018.0072
-- title: 23. Gut microbiota-mediated protection against influenza virus subtype H9N2
-    in chickens is associated with modulation of the innate responses.
+- number: 23.0
+  title: Gut microbiota-mediated protection against influenza virus subtype H9N2 in
+    chickens is associated with modulation of the innate responses.
   authors: Alexander Yitbarek, Khaled Taha-Abdelaziz, Douglas C Hodgins, Leah Read,
     Éva Nagy, J Scott Weese, Jeff L Caswell, John Parkinson, Shayan Sharif
   journal: Scientific reports
@@ -210,7 +231,8 @@
   issue: '1'
   pages: '13189'
   doi: https://doi.org/10.1038/s41598-018-31613-0
-- title: 22. PLGA-encapsulated CpG ODN and Campylobacter jejuni lysate modulate cecal
+- number: 22.0
+  title: PLGA-encapsulated CpG ODN and Campylobacter jejuni lysate modulate cecal
     microbiota composition in broiler chickens experimentally challenged with C. jejuni.
   authors: Khaled Taha-Abdelaziz, Alexander Yitbarek, Tamiru Negash Alkie, Douglas
     C Hodgins, Leah R Read, J Scott Weese, Shayan Sharif
@@ -220,7 +242,8 @@
   issue: '1'
   pages: '12076'
   doi: https://doi.org/10.1038/s41598-018-30510-w
-- title: 21. Induction of immune response in chickens primed in ovo with an inactivated
+- number: 21.0
+  title: Induction of immune response in chickens primed in ovo with an inactivated
     H9N2 avian influenza virus vaccine.
   authors: Jake Astill, Tamiru Alkie, Alexander Yitbarek, Khaled Taha-Abdelaziz, Jegarubee
     Bavananthasivam, Éva Nagy, James John Petrik, Shayan Sharif
@@ -230,7 +253,8 @@
   issue: '1'
   pages: '428'
   doi: https://doi.org/10.1186/s13104-018-3537-9
-- title: 20. In ovo administration of Toll-like receptor ligands encapsulated in PLGA
+- number: 20.0
+  title: In ovo administration of Toll-like receptor ligands encapsulated in PLGA
     nanoparticles impede tumor development in chickens infected with Marek's disease
     virus.
   authors: Jegarubee Bavananthasivam, Tamiru N Alkie, Jake Astill, Mohamed Faizal
@@ -241,7 +265,8 @@
   issue: '28'
   pages: 4070-4076
   doi: https://doi.org/10.1016/j.vaccine.2018.05.091
-- title: 19. Examination of the effects of virus inactivation methods on the induction
+- number: 19.0
+  title: Examination of the effects of virus inactivation methods on the induction
     of antibody- and cell-mediated immune responses against whole inactivated H9N2
     avian influenza virus vaccines in chickens.
   authors: Jake Astill, Tamiru Alkie, Alexander Yitbarek, Khaled Taha-Abdelaziz, Jegarubee
@@ -252,8 +277,9 @@
   issue: '27'
   pages: 3908-3916
   doi: https://doi.org/10.1016/j.vaccine.2018.05.093
-- title: 18. Gut microbiota modulates type I interferon and antibody-mediated immune
-    responses in chickens infected with influenza virus subtype H9N2.
+- number: 18.0
+  title: Gut microbiota modulates type I interferon and antibody-mediated immune responses
+    in chickens infected with influenza virus subtype H9N2.
   authors: A Yitbarek, T Alkie, K Taha-Abdelaziz, J Astill, J C Rodriguez-Lecompte,
     J Parkinson, É Nagy, S Sharif
   journal: Beneficial microbes
@@ -262,8 +288,9 @@
   issue: '3'
   pages: 417-427
   doi: https://doi.org/10.3920/BM2017.0088
-- title: 17. Influenza A virus subtype H9N2 infection disrupts the composition of
-    intestinal microbiota of chickens.
+- number: 17.0
+  title: Influenza A virus subtype H9N2 infection disrupts the composition of intestinal
+    microbiota of chickens.
   authors: Alexander Yitbarek, J Scott Weese, Tamiru Negash Alkie, John Parkinson,
     Shayan Sharif
   journal: FEMS microbiology ecology
@@ -272,7 +299,8 @@
   issue: '1'
   pages: .na.character
   doi: https://doi.org/10.1093/femsec/fix165
-- title: 16. Oral administration of PLGA-encapsulated CpG ODN and Campylobacter jejuni
+- number: 16.0
+  title: Oral administration of PLGA-encapsulated CpG ODN and Campylobacter jejuni
     lysate reduces cecal colonization by Campylobacter jejuni in chickens.
   authors: Khaled Taha-Abdelaziz, Douglas C Hodgins, Tamiru Negash Alkie, Wanderely
     Quinteiro-Filho, Alexander Yitbarek, Jake Astill, Shayan Sharif
@@ -282,8 +310,9 @@
   issue: '3'
   pages: 388-394
   doi: https://doi.org/10.1016/j.vaccine.2017.11.073
-- title: 15. Gene expression profiling of chicken cecal tonsils and ileum following
-    oral exposure to soluble and PLGA-encapsulated CpG ODN, and lysate of Campylobacter
+- number: 15.0
+  title: Gene expression profiling of chicken cecal tonsils and ileum following oral
+    exposure to soluble and PLGA-encapsulated CpG ODN, and lysate of Campylobacter
     jejuni.
   authors: Khaled Taha-Abdelaziz, Tamiru Negash Alkie, Douglas C Hodgins, Alexander
     Yitbarek, Bahram Shojadoost, Shayan Sharif
@@ -293,8 +322,9 @@
   issue: .na.character
   pages: 67-74
   doi: https://doi.org/10.1016/j.vetmic.2017.11.010
-- title: 14. Dietary supplementation with a nucleotide-rich yeast extract modulates
-    gut immune response and microflora in weaned pigs in response to a sanitary challenge.
+- number: 14.0
+  title: Dietary supplementation with a nucleotide-rich yeast extract modulates gut
+    immune response and microflora in weaned pigs in response to a sanitary challenge.
   authors: S M Waititu, F Yin, R Patterson, A Yitbarek, J C Rodriguez-Lecompte, C
     M Nyachoti
   journal: 'Animal : an international journal of animal bioscience'
@@ -303,7 +333,8 @@
   issue: '12'
   pages: 2156-2164
   doi: https://doi.org/10.1017/S1751731117001276
-- title: 13. Maternal antibody decay and antibody-mediated immune responses in chicken
+- number: 13.0
+  title: Maternal antibody decay and antibody-mediated immune responses in chicken
     pullets fed prebiotics and synbiotics.
   authors: M Alizadeh, P Munyaka, A Yitbarek, H Echeverry, J C Rodriguez-Lecompte
   journal: Poultry science
@@ -312,8 +343,9 @@
   issue: '1'
   pages: 58-64
   doi: https://doi.org/10.3382/ps/pew244
-- title: 12. The immunomodulatory effect of vitamin D in chickens is dose-dependent
-    and influenced by calcium and phosphorus levels.
+- number: 12.0
+  title: The immunomodulatory effect of vitamin D in chickens is dose-dependent and
+    influenced by calcium and phosphorus levels.
   authors: J C Rodriguez-Lecompte, A Yitbarek, T Cuperus, H Echeverry, A van Dijk
   journal: Poultry science
   year: 2016
@@ -321,8 +353,9 @@
   issue: '11'
   pages: 2547-2556
   doi: https://doi.org/10.3382/ps/pew186
-- title: 11. Effect of yeast-derived products on systemic innate immune response of
-    broiler chickens following a lipopolysaccharide challenge.
+- number: 11.0
+  title: Effect of yeast-derived products on systemic innate immune response of broiler
+    chickens following a lipopolysaccharide challenge.
   authors: M Alizadeh, J C Rodriguez-Lecompte, A Yitbarek, S Sharif, G Crow, B A Slominski
   journal: Poultry science
   year: 2016
@@ -330,7 +363,8 @@
   issue: '10'
   pages: 2266-73
   doi: https://doi.org/10.3382/ps/pew154
-- title: 10. Organic trace mineral supplementation enhances local and systemic innate
+- number: 10.0
+  title: Organic trace mineral supplementation enhances local and systemic innate
     immune responses and modulates oxidative stress in broiler chickens.
   authors: H Echeverry, A Yitbarek, P Munyaka, M Alizadeh, A Cleaver, G Camelo-Jaimes,
     P Wang, K O, J C Rodriguez-Lecompte
@@ -340,7 +374,8 @@
   issue: '3'
   pages: 518-27
   doi: https://doi.org/10.3382/ps/pev374
-- title: 9. Innate immune response of pullets fed diets supplemented with prebiotics
+- number: 9.0
+  title: Innate immune response of pullets fed diets supplemented with prebiotics
     and synbiotics.
   authors: A Yitbarek, H Echeverry, P Munyaka, J C Rodriguez-Lecompte
   journal: Poultry science
@@ -349,7 +384,8 @@
   issue: '8'
   pages: 1802-11
   doi: https://doi.org/10.3382/ps/pev147
-- title: 8. Efficacy of needle-free injection on antibody production against Clostridium
+- number: 8.0
+  title: Efficacy of needle-free injection on antibody production against Clostridium
     chauvoei in beef calves under field conditions.
   authors: Michel Rey, Juan Rodriguez-Lecompte, Michael Undi, Tomy Joseph, Jason Morrison,
     Alex Yitbarek, Karin Wittenberg, Robert Tremblay, Gary Crow, Kim Ominski
@@ -359,8 +395,9 @@
   issue: '4'
   pages: 405-7
   doi: .na
-- title: 7. Effect of supplementing direct-fed microbials on broiler performance,
-    nutrient digestibilities, and immune responses.
+- number: 7.0
+  title: Effect of supplementing direct-fed microbials on broiler performance, nutrient
+    digestibilities, and immune responses.
   authors: S M Waititu, A Yitbarek, E Matini, H Echeverry, E Kiarie, J C Rodriguez-Lecompte,
     C M Nyachoti
   journal: Poultry science
@@ -369,9 +406,10 @@
   issue: '3'
   pages: 625-35
   doi: https://doi.org/10.3382/ps.2013-03575
-- title: 6. A study of the effectiveness of a needle-free injection device compared
-    with a needle and syringe used to vaccinate calves against bovine viral diarrhea
-    and infectious bovine rhinotracheitis viruses.
+- number: 6.0
+  title: A study of the effectiveness of a needle-free injection device compared with
+    a needle and syringe used to vaccinate calves against bovine viral diarrhea and
+    infectious bovine rhinotracheitis viruses.
   authors: Michel R Rey, Michael Undi, Juan C Rodriguez-Lecompte, Tomy Joseph, Jason
     Morrison, Alexander Yitbarek, Karin Wittenberg, Robert Tremblay, Gary H Crow,
     Kim H Ominski
@@ -381,7 +419,8 @@
   issue: '1'
   pages: 235-8
   doi: https://doi.org/10.1016/j.tvjl.2013.06.019
-- title: 5. Performance, histomorphology, and toll-like receptor, chemokine, and cytokine
+- number: 5.0
+  title: Performance, histomorphology, and toll-like receptor, chemokine, and cytokine
     profile locally and systemically in broiler chickens fed diets supplemented with
     yeast-derived macromolecules.
   authors: A Yitbarek, J C Rodriguez-Lecompte, H M Echeverry, P Munyaka, N Barjesteh,
@@ -392,7 +431,8 @@
   issue: '9'
   pages: 2299-310
   doi: https://doi.org/10.3382/ps.2013-03141
-- title: 4. Local and systemic innate immunity in broiler chickens supplemented with
+- number: 4.0
+  title: Local and systemic innate immunity in broiler chickens supplemented with
     yeast-derived carbohydrates.
   authors: P M Munyaka, H Echeverry, A Yitbarek, G Camelo-Jaimes, S Sharif, W Guenter,
     J D House, J C Rodriguez-Lecompte
@@ -402,7 +442,8 @@
   issue: '9'
   pages: 2164-72
   doi: https://doi.org/10.3382/ps.2012-02306
-- title: 3. Innate immune response to yeast-derived carbohydrates in broiler chickens
+- number: 3.0
+  title: Innate immune response to yeast-derived carbohydrates in broiler chickens
     fed organic diets and challenged with Clostridium perfringens.
   authors: A Yitbarek, H Echeverry, J Brady, J Hernandez-Doria, G Camelo-Jaimes, S
     Sharif, W Guenter, J D House, J C Rodriguez-Lecompte
@@ -412,7 +453,8 @@
   issue: '5'
   pages: 1105-12
   doi: https://doi.org/10.3382/ps.2011-02109
-- title: 2. The effect of microbial-nutrient interaction on the immune system of young
+- number: 2.0
+  title: The effect of microbial-nutrient interaction on the immune system of young
     chicks after early probiotic and organic acid administration.
   authors: J C Rodríguez-Lecompte, A Yitbarek, J Brady, S Sharif, M D Cavanagh, G
     Crow, W Guenter, J D House, G Camelo-Jaimes
@@ -422,7 +464,8 @@
   issue: '7'
   pages: 2246-54
   doi: https://doi.org/10.2527/jas.2011-4184
-- title: 1. Modeling the efficiency of phosphorus utilization in growing pigs.
+- number: 1.0
+  title: Modeling the efficiency of phosphorus utilization in growing pigs.
   authors: E Kebreab, A B Strathe, A Yitbarek, C M Nyachoti, J Dijkstra, S Lopez,
     J France
   journal: Journal of animal science
