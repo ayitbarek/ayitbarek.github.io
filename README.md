@@ -16,8 +16,11 @@ We work across **basic immunology**, **microbial ecology**, and **applied poultr
 ## 📣 Recent Highlights (comming soon!)
 
 🧪 **New Paper**: 
+
 📈 **Grant Awarded**: 
+
 🔬 **Trial Launched**: 
+
 📢 **Open Positions**:
 
 ---
