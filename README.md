@@ -35,7 +35,7 @@ We work across **basic immunology**, **microbial ecology**, and **applied poultr
 ## 🧫 Microbiome Insights from Our Recent Study
 
 <p align="center">
-  <img src="/images/NMDS_Bray_IronDose_AMOVA.png" alt="NMDS Plot - Iron Dose (All)" width="200">
+  <img src="images/NMDS_Bray_IronDose_AMOVA.png" alt="NMDS Plot - Iron Dose (All)" width="200">
   <img src="/images/NMDS_Bray_IronDose_AMOVA_D14CC.png" alt="NMDS Plot - Iron Dose (D14 Cecal Content)" width="200">
   <img src="/images/RA_Top20_Genus_by_IronDose_D14CC.png" alt="Top 20 Genus - D14 Cecal Content" width="200">
   <img src="/images/RA_Top20_Genus_by_IronDose_D14Swab.png" alt="Top 20 Genus - D14 Swab" width="200">
