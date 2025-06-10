@@ -48,10 +48,10 @@ These visualizations show how **iron dosing shapes broiler gut microbiota**, imp
 ## 🧫 Microbiome Insights from Our Recent Study
 
 <p align="center">
-  <img src="/assets/images/NMDS_Bray_IronDose_AMOVA.png" alt="NMDS Plot - Iron Dose (All)" width="200">
-  <img src="/assets/images/NMDS_Bray_IronDose_AMOVA_D14CC.png" alt="NMDS Plot - Iron Dose (D14 Cecal Content)" width="200">
-  <img src="/assets/images/RA_Top20_Genus_by_IronDose_D14CC.png" alt="Top 20 Genus - D14 Cecal Content" width="200">
-  <img src="/assets/images/RA_Top20_Genus_by_IronDose_D14Swab.png" alt="Top 20 Genus - D14 Swab" width="200">
+  <img src="/images/NMDS_Bray_IronDose_AMOVA.png" alt="NMDS Plot - Iron Dose (All)" width="200">
+  <img src="/images/NMDS_Bray_IronDose_AMOVA_D14CC.png" alt="NMDS Plot - Iron Dose (D14 Cecal Content)" width="200">
+  <img src="/images/RA_Top20_Genus_by_IronDose_D14CC.png" alt="Top 20 Genus - D14 Cecal Content" width="200">
+  <img src="/images/RA_Top20_Genus_by_IronDose_D14Swab.png" alt="Top 20 Genus - D14 Swab" width="200">
 </p>
 
 These data visualizations highlight how **iron dosing shapes the gut microbiota** in broiler chickens, affecting both **community structure** (via NMDS) and **taxonomic composition** at the genus level.  
