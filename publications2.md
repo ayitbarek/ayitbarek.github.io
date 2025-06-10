@@ -17,4 +17,3 @@ permalink: /publications2/
     </li>
   {% endfor %}
 </ul>
-
