@@ -7,7 +7,7 @@ permalink: /publications2/
 ## Publications
 
 <ul class="pub-list">
-  {% assign pubs = site.data.publications %}
+  {% assign pubs = site.data.publications2 %}
   {% for pub in pubs %}
     <li>
       <strong>{{ pub.authors }}</strong> ({{ pub.year }}).<br>
