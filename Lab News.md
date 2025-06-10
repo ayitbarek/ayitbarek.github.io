@@ -5,4 +5,4 @@ permalink: /lab-news/
 ---
 
 June 2025: 
-Sadique Abdalah has joined tthe lab as a PhD student. Welcome Sadique! 
+* Sadique Abdalah has joined tthe lab as a PhD student. Welcome Sadique! 
