@@ -3,7 +3,7 @@ layout: default
 title: "Lab News"
 permalink: /lab-news/
 ---
-## 🐔 Lab Announcement
+## Lab Announcement
 
 <p align="Left">
   <img src="/Images/chicken-announcement.png" width="200" alt="Our chicken has something to say!">
