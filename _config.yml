@@ -3,10 +3,12 @@ description: "Avian Health Biology — University of Delaware"
 theme: minima
 
 header_pages:
+  - Lab News.md
   - research.md
   - team.md
   - courses.md
   - publications.md
+  - PUB.md
   - open-positions.md
   - facilities.md
   - address.md
