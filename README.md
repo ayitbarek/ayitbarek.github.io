@@ -1,4 +1,4 @@
-# 🧬 Welcome to the Yitbarek Lab  
+# Welcome to the Yitbarek Lab  
 ### Advancing Poultry Health Through Immunology, Microbiome Science, and Translational Innovation
 
 At the **Yitbarek Lab** (University of Delaware), we study how the immune system, gut microbiota, and nutrition intersect to shape **disease resistance, vaccine efficacy, and overall health in poultry**.
