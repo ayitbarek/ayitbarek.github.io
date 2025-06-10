@@ -5,7 +5,7 @@ permalink: /lab-news/
 ---
 ## 🐔 Lab Announcement
 
-![Our chicken has something to say!](/assets/images/chicken-announcement.png)
+![Our chicken has something to say!](ayitbarek.github.io/Images/chicken-announcement.png)
 
 
 June 2025: 
