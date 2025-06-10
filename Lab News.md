@@ -5,8 +5,8 @@ permalink: /lab-news/
 ---
 ## 🐔 Lab Announcement
 
-<p align="center">
-  <img src="/Images/chicken-announcement.png" width="300" alt="Our chicken has something to say!">
+<p align="Left">
+  <img src="/Images/chicken-announcement.png" width="200" alt="Our chicken has something to say!">
 </p>
 
 June 2025: 
