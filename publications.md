@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Publications2"
-permalink: /publications2/
+title: "Publications"
+permalink: /publication/
 ---
 
-## Publications
+## Publications:
 
 <ul class="pub-list">
-  {% assign pubs = site.data.publications2 %}
+  {% assign pubs = site.data.publications %}
   {% for pub in pubs %}
     <li>
       <strong>{{ pub.authors }}</strong> ({{ pub.year }}).<br>
