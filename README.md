@@ -4,10 +4,10 @@
 At the **Yitbarek Lab** (University of Delaware), we study how the immune system, gut microbiota, and nutrition intersect to shape **disease resistance, vaccine efficacy, and overall health in poultry**.
 
 Our research focuses on:
-- 🧬 **Avian immunology**: Understanding innate, cell-mediated and antibody mediate immune responses in poultry.
-- 🦠 **Microbiome–host interactions**: Exploring how gut microbes influence vaccine outcomes, inflammatory pathways, and resistance to diseases like *Clostridium perfringens* and avian influenza.
-- 💉 **Next-generation vaccine development**: Designing and testing innovative delivery systems including **in ovo**, **foam spray**, and **mucosal nanoparticle-based vaccines**.
-- 🐓 **Nutritional immunology**: Investigating how prebiotics, probiotics, and natural compounds (e.g., phytogenics, selenium, vitamin D) modulate immune and microbial responses.
+- **Avian immunology**: Understanding innate, cell-mediated and antibody mediate immune responses in poultry.
+- **Microbiome–host interactions**: Exploring how gut microbes influence vaccine outcomes, inflammatory pathways, and resistance to diseases like *Clostridium perfringens* and avian influenza.
+- **Next-generation vaccine development**: Designing and testing innovative delivery systems including **in ovo**, **foam spray**, and **mucosal nanoparticle-based vaccines**.
+- **Nutritional immunology**: Investigating how prebiotics, probiotics, and natural compounds (e.g., phytogenics, selenium, vitamin D) modulate immune and microbial responses.
 
 We work across **basic immunology**, **microbial ecology**, and **applied poultry science**, bridging **academic research** and **industry collaboration**.
 
