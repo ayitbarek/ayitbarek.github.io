@@ -5,8 +5,9 @@ permalink: /lab-news/
 ---
 ## 🐔 Lab Announcement
 
-![Our chicken has something to say!](/Images/chicken-announcement.png)
-
+<p align="center">
+  <img src="/Images/chicken-announcement.png" width="300" alt="Our chicken has something to say!">
+</p>
 
 June 2025: 
 * Congratulation to Ayobami Aboderin and Atul Jdhav for sucesfully completing their MSc degree. We wish you all the best in your future endeavors. 
