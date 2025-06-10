@@ -36,9 +36,9 @@ We work across **basic immunology**, **microbial ecology**, and **applied poultr
 
 <p align="center">
   <img src="/Images/NMDS_Bray_IronDose_AMOVA.png" width="200">
-  <img src="/images/NMDS_Bray_IronDose_AMOVA_D14CC.png" alt="NMDS Plot - Iron Dose (D14 Cecal Content)" width="200">
-  <img src="/images/RA_Top20_Genus_by_IronDose_D14CC.png" alt="Top 20 Genus - D14 Cecal Content" width="200">
-  <img src="/images/RA_Top20_Genus_by_IronDose_D14Swab.png" alt="Top 20 Genus - D14 Swab" width="200">
+  <img src="/Images/NMDS_Bray_IronDose_AMOVA_D14CC.png" width="200">
+  <img src="/Images/RA_Top20_Genus_by_IronDose_D14CC.png" width="200">
+  <img src="/Images/RA_Top20_Genus_by_IronDose_D14Swab.png" width="200">
 </p>
 
 These data visualizations highlight how **iron dosing shapes the gut microbiota** in broiler chickens, affecting both **community structure** (via NMDS) and **taxonomic composition** at the genus level.  
