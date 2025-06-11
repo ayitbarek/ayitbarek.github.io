@@ -11,8 +11,10 @@
 
   <header class="site-header">
     <div class="header-container">
-      <!-- Left: Lab Logo -->
-      <img src="{{ '/assets/favicon.ico' | relative_url }}" alt="Lab Logo" class="lab-header-logo">
+      <!-- Left: Lab Logo as clickable link to Home -->
+      <a href="{{ '/' | relative_url }}">
+        <img src="{{ '/assets/favicon.ico' | relative_url }}" alt="Lab Logo" class="lab-header-logo">
+      </a>
 
       <!-- Center: Navigation -->
       <nav class="site-nav">
@@ -36,5 +38,3 @@
 
 </body>
 </html>
-
-
