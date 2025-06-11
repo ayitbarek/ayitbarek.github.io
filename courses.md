@@ -9,7 +9,7 @@ permalink: /teaching/
 **Undergraduate/Graduate**
 * ANFS436/636: Immunology of Domesticated Animals
 * ANFS455/655: The Gut Microbiome: Microbial and Host Perspectives
-* ANFS111:  Animal and Food Science Exploration
+* ANFS111:  Animal and Food Science Exploration (Chicken embryo development) 
 * ANFS865: Graduate Student Seminar
 
 
