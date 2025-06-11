@@ -71,6 +71,17 @@ body {
     opacity: 1;
     transform: translateY(0);
   }
+  .site-footer {
+  display: flex;
+  justify-content: center; /* horizontally center */
+  align-items: center;     /* vertically center */
+  height: 60px;
+}
+
+.ud-logo-footer {
+  height: 50px;
+}
+
 }
 .facility-grid {
   display: grid;
