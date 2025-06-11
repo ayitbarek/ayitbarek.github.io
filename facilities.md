@@ -45,6 +45,5 @@ Part of the [College of Agriculture and Natural Resources (CANR)](https://www.ud
       <li>Emergency BSL-3 <strong>necropsy suite</strong> for exotic poultry disease investigations</li>
     </ul>
   </p>
-  </div>
 
 </div>
