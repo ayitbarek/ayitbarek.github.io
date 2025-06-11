@@ -1,58 +1,55 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-  <link rel="icon" href="{{ '/assets/favicon.ico' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
+  <link rel="icon" href="{{ '/assets/favicon.ico' | relative_url }}" />
 </head>
 <body>
 
-  <!-- Fixed top header with UD blue background (defined in style.css) -->
+  <!-- Fixed Header -->
   <header class="site-header">
     <div class="header-container">
       
-      <!-- Left: Lab Logo as clickable link to Home -->
+      <!-- Logo Link -->
       <a href="{{ '/' | relative_url }}">
-        <img src="{{ '/assets/favicon.ico' | relative_url }}" alt="Lab Logo" class="lab-header-logo" style="height: 60px;">
+        <img src="{{ '/assets/favicon.ico' | relative_url }}" alt="Lab Logo" class="lab-header-logo" />
       </a>
 
-      <!-- Center: Navigation -->
-      <!-- Hamburger Toggle (Mobile Only) -->
-<button class="hamburger" onclick="toggleMobileMenu()">☰</button>
+      <!-- Hamburger Icon for Mobile -->
+      <button class="hamburger" onclick="toggleMobileMenu()">☰</button>
 
-<!-- Nav Menu -->
-<nav class="site-nav" id="mobileMenu">
-  {% for path in site.header_pages %}
-    {% assign nav_page = site.pages | where: "path", path | first %}
-    {% if nav_page %}
-      <a class="page-link" href="{{ nav_page.url | relative_url }}">{{ nav_page.title }}</a>
-    {% endif %}
-  {% endfor %}
-</nav>
-
-
+      <!-- Navigation Menu -->
+      <nav class="site-nav" id="mobileMenu">
+        {% for path in site.header_pages %}
+          {% assign nav_page = site.pages | where: "path", path | first %}
+          {% if nav_page %}
+            <a class="page-link" href="{{ nav_page.url | relative_url }}">{{ nav_page.title }}</a>
+          {% endif %}
+        {% endfor %}
+      </nav>
     </div>
   </header>
 
-  <!-- Main content area -->
-  <main class="page-content" style="padding-top: 70px;">
+  <!-- Main Content -->
+  <main class="page-content">
     {{ content }}
   </main>
 
-  <!-- Footer with centered UD logo -->
-  <footer class="site-footer" style="text-align: center; height: 60px;">
-    <img src="/assets/Logo.png" alt="UD Logo" style="height:50px;">
+  <!-- Footer -->
+  <footer class="site-footer">
+    <img src="/assets/Logo.png" alt="UD Logo" class="ud-logo-footer" />
   </footer>
 
+  <!-- JS for Hamburger Menu -->
   <script>
-  function toggleMobileMenu() {
-    const nav = document.getElementById("mobileMenu");
-    nav.classList.toggle("mobile-active");
-  }
-</script>
+    function toggleMobileMenu() {
+      const nav = document.getElementById("mobileMenu");
+      nav.classList.toggle("mobile-active");
+    }
+  </script>
 
-  
 </body>
 </html>
