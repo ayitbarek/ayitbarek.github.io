@@ -28,9 +28,9 @@ We work across **basic immunology**, **microbial ecology**, and **applied poultr
 ## 🧫 Microbiome Insights from Our Recent Study
 
 <p align="center">
-  <img src="/Images/NMDS_Bray_IronDose_AMOVA.png" width="200">
-  <img src="/Images/NMDS_Bray_IronDose_AMOVA_D14CC.png" width="200">
-  <img src="/Images/RA_Top20_Genus_by_IronDose_D14CC.png" width="200">
-  <img src="/Images/RA_Top20_Genus_by_IronDose_D14Swab.png" width="200">
+  <img src="/Images/NMDS_Bray_IronDose_AMOVA.png" width="100">
+  <img src="/Images/NMDS_Bray_IronDose_AMOVA_D14CC.png" width="100">
+  <img src="/Images/RA_Top20_Genus_by_IronDose_D14CC.png" width="100">
+  <img src="/Images/RA_Top20_Genus_by_IronDose_D14Swab.png" width="100">
 </p>
 
