@@ -7,7 +7,7 @@ permalink: /team/
 <!-- Page content starts below -->
 
 ### Principal Investigator
-**Dr. Alex Yitbarek**  
+**Dr. Sealen Yitbarek**  
 Assistant Professor 
 
 <img src="/Images/ChickenHead.png" alt="Team Photo" width="200">
