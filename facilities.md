@@ -38,4 +38,3 @@ Part of the [College of Agriculture and Natural Resources (CANR)](https://www.ud
     <br><br>
     <p>
 </div>
-</div>
