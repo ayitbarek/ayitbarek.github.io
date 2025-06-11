@@ -31,7 +31,7 @@ Part of the [College of Agriculture and Natural Resources (CANR)](https://www.ud
 
   <div>
   <h3>Charles C. Allen Jr. Biotechnology Laboratory</h3>
-  <img src="/Image/allenlab.jpg" alt="Allen Biotechnology Lab" class="facility-img">
+  <img src="/Image/allen-lab.jpeg" alt="Allen Biotechnology Lab" class="facility-img">
   <p>
     The Allen Lab is a **BSL-3, USDA-licensed, and NAHLN-approved** facility dedicated to high-containment poultry disease research.  
     This 16,635 sq. ft. building supports work on **highly virulent pathogens** like avian influenza and Newcastle disease in a secure and biosecure environment.  
