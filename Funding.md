@@ -2,7 +2,7 @@
 ---
 layout: default
 title: Funding
-permalink: /🚀 Partners & Funders/
+permalink: /Funding/
 ---
 
 <h1>Funding</h1>
