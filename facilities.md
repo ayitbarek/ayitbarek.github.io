@@ -6,7 +6,7 @@ permalink: /facilities/
 
 ## 🏢 Facilities Supporting Our Research
 
-We are proudly based at the University of Delaware and conduct our research across two major locations.
+We are proudly based at the University of Delaware and conduct our research across three major locations:
 
 ---
 
@@ -27,6 +27,14 @@ Part of the [College of Agriculture and Natural Resources (CANR)](https://www.ud
     <h3>Carvel Center – Georgetown, DE</h3>
     <img src="/CarvelCenter.jpg" alt="Carvel Center" class="facility-img">
     <p>This southern Delaware facility supports field trials and agricultural research with industry collaboration.</p>
+  </div>
+
+  <div>
+    <h3>Charles C. Allen Jr. Biotechnology Laboratory</h3>
+    <img src="/AllenLab.jpg" alt="Allen Biotechnology Lab" class="facility-img">
+    <p>This advanced facility supports molecular biology, vaccine research, and microbial genomics.  
+    Learn more:  
+    <a href="https://www.udel.edu/academics/colleges/canr/about/facilities/allen-biotechnology-lab/" target="_blank">Visit the official site →</a></p>
   </div>
 
 </div>
