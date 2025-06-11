@@ -144,22 +144,25 @@ body {
     border-top: 1px solid rgba(255, 255, 255, 0.2);
   }
 
-  /* Show hamburger */
+  /* Show hamburger only on small screens */
+.hamburger {
+  display: none;
+}
+
+@media (max-width: 600px) {
   .hamburger {
     display: block;
-    cursor: pointer;
-    background: none;
-    border: none;
-    font-size: 28px;
-    color: white;
-    padding: 10px;
   }
 
-  .hamburger:focus {
-    outline: none;
+  .site-nav {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+    background-color: #00539B;
   }
 
-  .page-content {
-    padding-top: 130px; /* extra space under expanded menu */
+  .site-nav.mobile-active {
+    display: flex;
   }
 }
+
