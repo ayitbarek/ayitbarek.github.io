@@ -31,17 +31,19 @@ Part of the [College of Agriculture and Natural Resources (CANR)](https://www.ud
 
   <div>
   <h3>Charles C. Allen Jr. Biotechnology Laboratory</h3>
-  <img src="/Images/allen-lab.jpeg" alt="Allen Biotechnology Lab" class="facility-img">
+  <img src="/AllenLab.jpg" alt="Allen Biotechnology Lab" class="facility-img">
   <p>
-    **The **Allen Lab is a **BSL-3, USDA-licensed, and NAHLN-approved** facility dedicated to high-containment poultry disease research.  
-    This building supports work on **highly virulent pathogens** like avian influenza and Newcastle disease in a secure and biosecure environment.  
+    The Allen Lab is a <strong>BSL-3, USDA-licensed, and NAHLN-approved</strong> facility dedicated to high-containment poultry disease research.  
+    This building supports work on <strong>highly virulent pathogens</strong> like avian influenza and Newcastle disease in a secure and biosecure environment.  
     <br><br>
     Features include:
-    - HEPA-filtered glove-port isolation cabinets and airlock-equipped animal rooms  
-    - Gene sequencing and multipurpose molecular biology labs  
-    - A single-pass, pressure-gradient ventilation system with HEPA filtration  
-    - Computer-controlled **liquid waste decontamination** and solid waste autoclaves  
-    - Emergency BSL-3 **necropsy suite** for exotic poultry disease investigations  
+    <ul>
+      <li>HEPA-filtered glove-port isolation cabinets and airlock-equipped animal rooms</li>
+      <li>Gene sequencing and multipurpose molecular biology labs</li>
+      <li>A single-pass, pressure-gradient ventilation system with HEPA filtration</li>
+      <li>Computer-controlled <strong>liquid waste decontamination</strong> and solid waste autoclaves</li>
+      <li>Emergency BSL-3 <strong>necropsy suite</strong> for exotic poultry disease investigations</li>
+    </ul>
   </p>
   </div>
 
