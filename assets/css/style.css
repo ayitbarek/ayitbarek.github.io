@@ -14,7 +14,7 @@ body {
   z-index: 999;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   color: white;
-  /* animation: fadeInDown 0.6s ease-out; */ /* removed to stop flicker */
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15); /* subtle separator */
 }
 
 /* Flex layout for logo + nav */
@@ -46,11 +46,10 @@ body {
   padding: 8px 12px;
   line-height: 1;
   display: inline-block;
-  border-bottom: 2px solid transparent; /* reserve space to avoid layout shift */
+  border-bottom: 2px solid transparent;
   transition: background-color 0.3s ease, border-color 0.3s ease;
 }
 
-/* Hover effect for nav links */
 .page-link:hover {
   background-color: rgba(255, 255, 255, 0.1);
   border-bottom: 2px solid #ffffff;
@@ -70,7 +69,7 @@ body {
   padding-right: 20px;
 }
 
-/* Optional fade-in animation keyframes (unused, can delete if not needed) */
+/* Optional fade-in animation keyframes (not used currently) */
 @keyframes fadeInDown {
   from {
     opacity: 0;
@@ -134,7 +133,16 @@ body {
 
   .site-nav {
     flex-wrap: wrap;
-    gap: 12px;
+    gap: 10px;
     margin-top: 10px;
+  }
+
+  .page-link {
+    font-size: 14px;
+    padding: 6px 8px;
+  }
+
+  .page-content {
+    padding-top: 120px; /* more padding below header for mobile */
   }
 }
