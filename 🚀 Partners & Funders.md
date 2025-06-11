@@ -1,3 +1,10 @@
+
+---
+layout: default
+title: Funding
+permalink: /funding/
+---
+
 <h1>Funding</h1>
 <p>We gratefully acknowledge support from the following institutions:</p>
 
