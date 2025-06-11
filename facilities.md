@@ -30,11 +30,19 @@ Part of the [College of Agriculture and Natural Resources (CANR)](https://www.ud
   </div>
 
   <div>
-    <h3>Charles C. Allen Jr. Biotechnology Laboratory</h3>
-    <img src="/AllenLab.jpg" alt="Allen Biotechnology Lab" class="facility-img">
-    <p>This advanced facility supports molecular biology, vaccine research, and microbial genomics.  
-    Learn more:  
-    <a href="https://www.udel.edu/academics/colleges/canr/about/facilities/allen-biotechnology-lab/" target="_blank">Visit the official site →</a></p>
+  <h3>Charles C. Allen Jr. Biotechnology Laboratory</h3>
+  <img src="/AllenLab.jpg" alt="Allen Biotechnology Lab" class="facility-img">
+  <p>
+    The Allen Lab is a **BSL-3, USDA-licensed, and NAHLN-approved** facility dedicated to high-containment poultry disease research.  
+    This 16,635 sq. ft. building supports work on **highly virulent pathogens** like avian influenza and Newcastle disease in a secure and biosecure environment.  
+    <br><br>
+    Features include:
+    - HEPA-filtered glove-port isolation cabinets and airlock-equipped animal rooms  
+    - Gene sequencing and multipurpose molecular biology labs  
+    - A single-pass, pressure-gradient ventilation system with HEPA filtration  
+    - Computer-controlled **liquid waste decontamination** and solid waste autoclaves  
+    - Emergency BSL-3 **necropsy suite** for exotic poultry disease investigations  
+  </p>
   </div>
 
 </div>
