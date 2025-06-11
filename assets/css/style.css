@@ -133,21 +133,21 @@ body {
 
   .site-nav {
     display: grid;
-    grid-template-columns: repeat(4, 1fr); /* Four per row */
-    gap: 6px;
+    grid-template-columns: repeat(4, 1fr); /* Exactly 4 tabs per row */
+    gap: 4px;
     width: 100%;
-    text-align: center;
     margin-top: 10px;
   }
 
   .page-link {
-    font-size: 13px;
-    padding: 6px 4px;
+    font-size: 12px;           /* Small enough to fit 4 items */
+    padding: 6px 2px;
     display: block;
     white-space: nowrap;
+    text-align: center;
   }
 
   .page-content {
-    padding-top: 120px; /* more padding below header for mobile */
+    padding-top: 130px; /* extra space for taller mobile nav */
   }
 }
