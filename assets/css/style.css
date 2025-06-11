@@ -151,3 +151,46 @@ body {
     padding-top: 130px; /* extra space for taller mobile nav */
   }
 }
+/* HIDE DESKTOP NAV ON MOBILE */
+@media (max-width: 600px) {
+  .site-header {
+    flex-direction: column;
+  }
+
+  .site-nav {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+    background-color: #00539B;
+    margin-top: 10px;
+  }
+
+  .site-nav.mobile-active {
+    display: flex;
+  }
+
+  .hamburger {
+    display: block;
+    cursor: pointer;
+    background: none;
+    border: none;
+    font-size: 28px;
+    color: white;
+    padding: 10px;
+  }
+
+  .hamburger:focus {
+    outline: none;
+  }
+
+  .page-link {
+    padding: 10px;
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+  }
+}
+
+/* SHOW HAMBURGER ONLY ON MOBILE */
+.hamburger {
+  display: none;
+}
+
