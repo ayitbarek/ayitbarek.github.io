@@ -12,10 +12,11 @@ Assistant Professor
 
 <img src="https://drive.google.com/uc?export=view&id=1UiUt53gFq611qQHhciuX7ySOlf8JyI5n" alt="Team Photo" width="200">
     
-**Graduate Students:**
+**Students:**
 - Sadique Abdallah: PhD Student (2025 - Present)
 - Aaliyah Smith: MSc Student (2024 - Present)
 - Donnell Boney Jr.: MSc (Non-Thesis: Project Advising) (2025)
+- Violet Geary: Summer Student - UD Envision (2025) 
 
 **Lab Allumni:**
 - Ayobami Aboderin: MSc Student (2023 - 2025) - McGill University
