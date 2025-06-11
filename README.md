@@ -1,4 +1,4 @@
-### Welcome to the Yitbarek Lab###
+### Welcome to the Yitbarek Lab ###
 
 ### Advancing Poultry Health Through Immunology, Microbiome Science, and Translational Innovation
 
