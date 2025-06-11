@@ -10,7 +10,7 @@ header_pages:
   - publications.md
   - open-positions.md
   - facilities.md
-  - 🚀 Partners & Funders.md
+  - Funding.md
 
 include:
   - assets
