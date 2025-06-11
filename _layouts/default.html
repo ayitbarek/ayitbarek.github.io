@@ -9,11 +9,13 @@
 </head>
 <body>
 
- <header class="site-header" style="position: fixed; top: 0; width: 100%; z-index: 999; background: white;">
+  <!-- Fixed top header with UD blue background (defined in style.css) -->
+  <header class="site-header">
     <div class="header-container">
+      
       <!-- Left: Lab Logo as clickable link to Home -->
       <a href="{{ '/' | relative_url }}">
-        <img src="{{ '/assets/favicon.ico' | relative_url }}" alt="Lab Logo" class="lab-header-logo" style="height: 60px;>
+        <img src="{{ '/assets/favicon.ico' | relative_url }}" alt="Lab Logo" class="lab-header-logo" style="height: 60px;">
       </a>
 
       <!-- Center: Navigation -->
@@ -25,17 +27,19 @@
           {% endif %}
         {% endfor %}
       </nav>
+
     </div>
   </header>
 
- <main class="page-content" style="padding-top: 70px;">
-  {{ content }}
-</main>
+  <!-- Main content area -->
+  <main class="page-content" style="padding-top: 70px;">
+    {{ content }}
+  </main>
 
-
-<footer class="site-footer" style="text-align: center; height: 60px;">
-  <img src="/assets/Logo.png" alt="UD Logo" style="height:50px;">
-</footer>
+  <!-- Footer with centered UD logo -->
+  <footer class="site-footer" style="text-align: center; height: 60px;">
+    <img src="/assets/Logo.png" alt="UD Logo" style="height:50px;">
+  </footer>
 
 </body>
 </html>
