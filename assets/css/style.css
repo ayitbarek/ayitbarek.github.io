@@ -5,7 +5,7 @@ body {
   background-color: #ffffff;
 }
 
-/* Floating top header */
+/* Fixed top header with UD Blue */
 .site-header {
   background-color: #00539B; /* UD Blue */
   position: fixed;
@@ -38,14 +38,14 @@ body {
   gap: 24px;
 }
 
-/* Navigation link styling */
+/* Navigation link styling with reserved border space */
 .page-link {
   color: white;
   text-decoration: none;
   font-weight: bold;
   padding: 8px 12px;
-  border-bottom: 2px solid transparent;
-  transition: all 0.3s ease;
+  border-bottom: 2px solid transparent; /* Prevents layout shift */
+  transition: border-color 0.3s ease, background-color 0.3s ease;
 }
 
 /* Ensure all links in header are white */
