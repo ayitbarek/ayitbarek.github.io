@@ -12,6 +12,6 @@ permalink: /facilities/
 
 <img src="/poultry-farm-aerial.jpeg" alt="Newark Campus" class="facility-img">
 
-**Carvel Center: Georgetown, DE**
+**The Carvel Center: Georgetown, DE**
 
 <img src="/CarvelCenter.jpg" alt="Carvel Center" class="facility-img">
