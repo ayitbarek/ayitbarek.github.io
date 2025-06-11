@@ -7,14 +7,14 @@ body {
 
 /* Fixed top header with UD Blue */
 .site-header {
-  background-color: #00539B; /* UD Blue */
+  background-color: #00539B;
   position: fixed;
   width: 100%;
   top: 0;
   z-index: 999;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   color: white;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.15); /* subtle separator */
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 /* Flex layout for logo + nav */
@@ -22,7 +22,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 10px 40px;
+  padding: 10px 20px;
 }
 
 /* Logo sizes */
@@ -32,20 +32,20 @@ body {
   width: auto;
 }
 
-/* Navigation layout */
+/* Default desktop navigation */
 .site-nav {
   display: flex;
   gap: 24px;
 }
 
-/* Navigation link styling with reserved border space */
+/* Navigation link styling */
 .page-link {
   color: white;
   text-decoration: none;
   font-weight: bold;
   padding: 8px 12px;
-  line-height: 1;
   display: inline-block;
+  line-height: 1;
   border-bottom: 2px solid transparent;
   transition: background-color 0.3s ease, border-color 0.3s ease;
 }
@@ -56,32 +56,20 @@ body {
   border-radius: 4px;
 }
 
-/* Ensure all links in header are white */
+/* All header links white */
 .site-header a,
 .site-header .page-link {
   color: white !important;
 }
 
-/* Padding for page content below fixed header */
+/* Main content padding */
 .page-content {
   padding-top: 100px;
   padding-left: 20px;
   padding-right: 20px;
 }
 
-/* Optional fade-in animation keyframes (not used currently) */
-@keyframes fadeInDown {
-  from {
-    opacity: 0;
-    transform: translateY(-20px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-/* Footer styling: UD logo centered */
+/* Footer styling */
 .site-footer {
   display: flex;
   justify-content: center;
@@ -93,7 +81,7 @@ body {
   height: 50px;
 }
 
-/* Responsive grid for facilities or features */
+/* Facility grid */
 .facility-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -112,7 +100,7 @@ body {
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
 }
 
-/* Publication list formatting */
+/* Publication list */
 .pub-list {
   list-style: none;
   padding-left: 0;
@@ -123,52 +111,40 @@ body {
   line-height: 1.6;
 }
 
-/* --- MOBILE NAV UPDATE --- */
+/* HAMBURGER MENU - MOBILE ONLY */
+.hamburger {
+  display: none;
+}
+
+/* MOBILE STYLES */
 @media (max-width: 600px) {
   .header-container {
     flex-direction: column;
     align-items: stretch;
-    padding: 10px 10px;
   }
 
-  .site-nav {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr); /* Exactly 4 tabs per row */
-    gap: 4px;
-    width: 100%;
-    margin-top: 10px;
-  }
-
-  .page-link {
-    font-size: 12px;           /* Small enough to fit 4 items */
-    padding: 6px 2px;
-    display: block;
-    white-space: nowrap;
-    text-align: center;
-  }
-
-  .page-content {
-    padding-top: 130px; /* extra space for taller mobile nav */
-  }
-}
-/* HIDE DESKTOP NAV ON MOBILE */
-@media (max-width: 600px) {
-  .site-header {
-    flex-direction: column;
-  }
-
+  /* Hide nav by default, show only when toggled */
   .site-nav {
     display: none;
     flex-direction: column;
-    width: 100%;
     background-color: #00539B;
+    width: 100%;
     margin-top: 10px;
   }
 
+  /* Show nav when menu is active */
   .site-nav.mobile-active {
     display: flex;
   }
 
+  .page-link {
+    font-size: 13px;
+    padding: 10px;
+    text-align: center;
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+  }
+
+  /* Show hamburger */
   .hamburger {
     display: block;
     cursor: pointer;
@@ -183,14 +159,7 @@ body {
     outline: none;
   }
 
-  .page-link {
-    padding: 10px;
-    border-top: 1px solid rgba(255, 255, 255, 0.2);
+  .page-content {
+    padding-top: 130px; /* extra space under expanded menu */
   }
 }
-
-/* SHOW HAMBURGER ONLY ON MOBILE */
-.hamburger {
-  display: none;
-}
-
