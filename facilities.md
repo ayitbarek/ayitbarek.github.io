@@ -20,13 +20,13 @@ Part of the [College of Agriculture and Natural Resources (CANR)](https://www.ud
   <div>
     <h3>Newark Campus</h3>
     <img src="/poultry-farm-aerial.jpeg" alt="Newark Campus" class="facility-img">
-    <p>The Newark site hosts our labs, poultry facilities, and animal care resources for nutrition, host-pathogen interactions and microbiome research.</p>
+    <p>The Newark site hosts our labs, poultry facilities (BSL-2), and animal care resources for nutrition, host-pathogen interactions and microbiome research.</p>
   </div>
 
   <div>
     <h3>Carvel Center – Georgetown, DE</h3>
     <img src="/CarvelCenter.jpg" alt="Carvel Center" class="facility-img">
-    <p>This southern Delaware facility supports field trials and agricultural research with industry collaboration.</p>
+    <p>This southern Delaware facility has BSL-2 commercial and pen houses for broiler trials.</p>
   </div>
 
   <div>
