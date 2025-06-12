@@ -9,6 +9,7 @@ permalink: /team/
 #### Principal Investigator
 **Dr. Alex Yitbarek**  
 Assistant Professor 
+
 <img src="/Images/Yitbarek.png" alt="Team Photo" width="100">
     
 **Students:**
