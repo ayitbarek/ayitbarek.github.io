@@ -10,7 +10,7 @@ permalink: /team/
 **Dr. Alex Yitbarek**  
 Assistant Professor 
 
-<img src="/Images/ChickenHead.png" alt="Team Photo" width="200">
+<img src="/Images/Yitbarek.png" alt="Team Photo" width="200">
     
 **Students:**
 - Sadique Abdallah: PhD Student (2025 - Present)
