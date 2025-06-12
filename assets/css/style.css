@@ -69,17 +69,27 @@ body {
   padding-right: 20px;
 }
 
-/* Footer styling */
 .site-footer {
+  padding: 20px;
+  background-color: #f8f8f8;
+  text-align: center;
+}
+
+.footer-logos {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 60px;
+  gap: 20px; /* Adjust space between logos */
+  flex-wrap: wrap; /* Allow logos to wrap on small screens */
 }
 
-.ud-logo-footer {
+.ud-logo-footer,
+.partner-logo-footer {
   height: 50px;
+  max-width: 150px;
+  object-fit: contain;
 }
+
 
 /* Facility grid */
 .facility-grid {
