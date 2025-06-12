@@ -10,5 +10,5 @@ permalink: /lab-news/
 </p>
 
 June 2025: 
-* Congratulation to Ayobami Aboderin and Atul Jadhav for sucesfully completing their MSc degrees. We wish you all the best in your future endeavors. 
+* Congratulation to Ayobami Aboderin and Atul Jadhav for sucesfully completing their MSc degrees. Wishing you continued success in all your future pursuits. 
 * Sadique Abdalah has joined the lab as a PhD student. Welcome Sadique! 
