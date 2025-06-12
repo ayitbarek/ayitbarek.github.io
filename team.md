@@ -6,7 +6,7 @@ permalink: /team/
 
 <!-- Page content starts below -->
 
-### Principal Investigator
+## Principal Investigator
 **Dr. Alex Yitbarek**  
 Assistant Professor 
 
