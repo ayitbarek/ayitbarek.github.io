@@ -5,45 +5,46 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{{ page.title }}</title>
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
-  <link rel="icon" href="{{ '/assets/favicon.ico' | relative_url }}" /alt="Lab Logo" class="lab-header-logo" style="height: 80px;">
+  <link rel="icon" href="{{ '/assets/favicon.ico' | relative_url }}" />
 </head>
 <body>
 
-  <!-- Fixed Header -->
-  <header class="site-header">
-    <div class="header-container">
-      
-      <!-- Logo Link -->
-      <a href="{{ '/' | relative_url }}">
-        <img src="{{ '/assets/favicon.ico' | relative_url }}" alt="Lab Logo" class="lab-header-logo" />
-      </a>
+  <div class="site-wrapper">
+    <!-- Fixed Header -->
+    <header class="site-header">
+      <div class="header-container">
+        <!-- Logo Link -->
+        <a href="{{ '/' | relative_url }}">
+          <img src="{{ '/assets/favicon.ico' | relative_url }}" alt="Lab Logo" class="lab-header-logo" />
+        </a>
 
-      <!-- Hamburger Icon for Mobile -->
-      <button class="hamburger" onclick="toggleMobileMenu()">☰</button>
+        <!-- Hamburger Icon for Mobile -->
+        <button class="hamburger" onclick="toggleMobileMenu()">☰</button>
 
-      <!-- Navigation Menu -->
-      <nav class="site-nav" id="mobileMenu">
-        {% for path in site.header_pages %}
-          {% assign nav_page = site.pages | where: "path", path | first %}
-          {% if nav_page %}
-            <a class="page-link" href="{{ nav_page.url | relative_url }}">{{ nav_page.title }}</a>
-          {% endif %}
-        {% endfor %}
-      </nav>
-    </div>
-  </header>
+        <!-- Navigation Menu -->
+        <nav class="site-nav" id="mobileMenu">
+          {% for path in site.header_pages %}
+            {% assign nav_page = site.pages | where: "path", path | first %}
+            {% if nav_page %}
+              <a class="page-link" href="{{ nav_page.url | relative_url }}">{{ nav_page.title }}</a>
+            {% endif %}
+          {% endfor %}
+        </nav>
+      </div>
+    </header>
 
-  <!-- Main Content -->
-  <main class="page-content">
-    {{ content }}
-  </main>
+    <!-- Main Content -->
+    <main class="page-content">
+      {{ content }}
+    </main>
 
-<!-- Footer -->
-<footer class="site-footer">
-  <div class="footer-logos">
-    <img src="/assets/CANR-Logo.png" alt="Partner Logo" class="partner-logo-footer" />
+    <!-- Footer -->
+    <footer class="site-footer">
+      <div class="footer-logos">
+        <img src="/assets/CANR-Logo.png" alt="Partner Logo" class="partner-logo-footer" />
+      </div>
+    </footer>
   </div>
-</footer>
 
   <!-- JS for Hamburger Menu -->
   <script>
