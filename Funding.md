@@ -11,13 +11,13 @@ permalink: /Funding/
   <img src="/assets/Logo.png" alt="US" style="height: 75px;">
 
   
-   <img src="/Images/USDA_NIFA.jpg" alt="USDA" style="height: 100px;">
+   <img src="/Images/USDA_NIFA.jpg" alt="USDA" style="height: 150px;">
 
    
-  <img src="/Images/NSERC.png" alt="NSF" style="height: 80px;">
+  <img src="/Images/NSERC.png" alt="NSF" style="height: 100px;">
 
   
-  <img src="/Images/cprc.png" alt="UD" style="height: 100px;">
+  <img src="/Images/cprc.png" alt="UD" style="height: 150px;">
   
 </div>
 
