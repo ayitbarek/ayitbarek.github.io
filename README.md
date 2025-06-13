@@ -18,7 +18,7 @@ We work across **basic immunology**, **microbial ecology**, and **applied poultr
 
 ---
 
-## 📣 Recent Highlights (comming soon!)
+## 📣 Recent Highlights
 
 🧪 **New Paper**: 
 
