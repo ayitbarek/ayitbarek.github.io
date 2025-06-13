@@ -10,7 +10,7 @@ permalink: /teaching/
 * ANFS436/636: Immunology of Domesticated Animals
 * ANFS455/655: The Gut Microbiome: Microbial and Host Perspectives
 * ANFS111:  Animal and Food Science Exploration (Chicken embryo development) 
-* ANFS865: Graduate Student Seminar (2024-2025)
+* ANFS865: Graduate Student Seminar
 
 
 <u><strong>McGill University: 2021 - 2024<u><strong>
