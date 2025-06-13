@@ -11,4 +11,5 @@ permalink: /lab-news/
 
 June 2025: 
 * Congratulation to Ayobami Aboderin and Atul Jadhav for sucesfully completing their MSc degrees. Wishing you continued success in all your future pursuits. 
-* Sadique Abdallah has joined the lab as a PhD student. Welcome Sadique! 
+* Sadique Abdallah has joined the lab as a PhD student. Welcome Sadique!
+* Violet Geary has joined the lab as a UD Envision Summer Student. Welcome Violet! 
