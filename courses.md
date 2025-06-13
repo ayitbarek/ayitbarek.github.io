@@ -6,7 +6,7 @@ permalink: /teaching/
 
 <u><strong>University of Delaware: 2024 - Present<u><strong>
 
-**Undergraduate/Graduate courses**
+**Undergraduate/Graduate Courses**
 * ANFS436/636: Immunology of Domesticated Animals
 * ANFS455/655: The Gut Microbiome: Microbial and Host Perspectives
 * ANFS111:  Animal and Food Science Exploration (Chicken embryo development) 
