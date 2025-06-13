@@ -7,12 +7,11 @@ permalink: /Funding/
 <h1>Funding</h1>
 <p>We gratefully acknowledge support from the following institutions:</p>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px; margin-top: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-end; align-items: flex-start; gap: 50px; margin-top: 20px;">
   <img src="/assets/Logo.png" alt="US" style="height: 75px;">
-   <img src="/Images/USDA_NIFA.jpg" alt="USDA" style="height: 150px;">
+  <img src="/Images/USDA_NIFA.jpg" alt="USDA" style="height: 150px;">
   <img src="/Images/NSERC.png" alt="NSF" style="height: 100px;">
   <img src="/Images/cprc.png" alt="UD" style="height: 150px;">
-  
 </div>
 
 #### We also thank out industry collaborators. ####
