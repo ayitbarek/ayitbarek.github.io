@@ -15,8 +15,6 @@ The Yitbarek Lab at the University of Delaware focuses on advancing avian health
 ### 🛡️ Avian Immunology
 We study the development and function of the avian immune system in both embryonic and post-hatch stages. Our goal is to identify key immunological markers and pathways involved in resistance to infectious diseases in poultry. 
 
-### 💉 Vaccine Development
-Our lab develops and evaluates novel vaccine platforms and delivery systems, including in ovo immunization, spray vaccines, and mucosal adjuvants. We focus on enhancing immune protection against pathogens such as *avian influenza virus*, *Clostridium perfringens*, and *Escherichia coli*.
 
 ### 🦠 Gut Health and Microbiota
 We investigate how dietary components, probiotics, and prebiotics influence gut microbiota composition and function. We explore the role of microbial communities in nutrient absorption, immune regulation, and resistance to enteric infections.
@@ -31,12 +29,11 @@ We investigate how dietary components, probiotics, and prebiotics influence gut 
 - **In Ovo Vaccine Delivery Systems**  
   Developing safe and effective in ovo vaccine formulations that promote early-life immunity.
 
-- **Multivalent Mucosal Vaccines**  
-  Formulating multivalent viral vector vaccines targeting multiple pathogens in a single dose.
-
 - **Microbiome-Immune Interactions**  
   Characterizing the interplay between intestinal microbiota and systemic immune responses in poultry.
 
+- **Feed additives to modulate early life gut microbiome of broiler chickens**  
+  Mechanisms of action of feed additives (enzymes, phytogenics) in early gut mcirobiome development.
 ---
 
 ## Collaborations
