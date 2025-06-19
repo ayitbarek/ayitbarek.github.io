@@ -15,9 +15,6 @@ Assistant Professor
 **Students:**
 - Sadique Abdallah: PhD Student (2025 - Present)
 - Aaliyah Smith: MSc Student (2024 - Present)
-  
-- Donnell Boney Jr.: MSc (Non-Thesis: Project Advising) (2025)
-  <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
   <!-- Photo with CV icon -->
   <div style="position: relative; display: inline-block; margin-bottom: 30px;">
