@@ -32,9 +32,7 @@ Assistant Professor
   <!-- Bio Text -->
   <div style="max-width: 500px;">
     <p>
-      Pursuing an MSc degree in Animal Science, with an interest in avian health and nutrition and 8 years of experience working with animals, both wildlife and domestic.
-    </p>
-      Currently working in research involving microbiome-immune interactions and feed additives in broiler chickens. Focused on a career in the field of animal pharmaceuticals and nutrition with a focus on research and development.
+Pursuing an MSc degree in Animal Science, with an interest in avian health and nutrition and 8 years of experience working with animals, both wildlife and domestic. Currently working in research involving microbiome-immune interactions and feed additives in broiler chickens. Focused on a career in the field of animal pharmaceuticals and nutrition with a focus on research and development.
     </p>
   </div>
 
