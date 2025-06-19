@@ -4,59 +4,45 @@ title: "The Team"
 permalink: /team/
 ---
 
-## The Team
+<!-- Page content starts below -->
 
-<div class="team-grid">
+#### Principal Investigator
+**Dr. Alex Yitbarek**  
+Assistant Professor 
 
-  <!-- PI -->
-  <div class="team-member">
-    <img src="/Images/Yitbarek.png" alt="Dr. Alex Yitbarek" class="team-img">
-    <h3>Dr. Alex Yitbarek</h3>
-    <p><strong>Assistant Professor</strong></p>
-    <p>Research interests include avian immunology, microbiome–immune interactions, and vaccine delivery systems.</p>
-  </div>
+<img src="/Images/Yitbarek.png" alt="Team Photo" width="150">
+    
+**Students:**
+- Sadique Abdallah: PhD Student (2025 - Present)
+- Aaliyah Smith: MSc Student (2024 - Present)
+  
+- Donnell Boney Jr.: MSc (Non-Thesis: Project Advising) (2025)
+  <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
-  <!-- Sadique -->
-  <div class="team-member">
-    <img src="/Images/default-profile.png" alt="Sadique Abdallah" class="team-img">
-    <h3>Sadique Abdallah</h3>
-    <p><strong>PhD Student (2025 – Present)</strong></p>
-    <p>Focusing on host–microbiome interactions in poultry with implications for gut health and productivity.</p>
-  </div>
-
-  <!-- Aaliyah -->
-  <div class="team-member">
-    <img src="/Images/default-profile.png" alt="Aaliyah Smith" class="team-img">
-    <h3>Aaliyah Smith</h3>
-    <p><strong>MSc Student (2024 – Present)</strong></p>
-    <p>Working on nutrient-microbiota-immune relationships in broilers, with an interest in sustainable feed additives.</p>
-  </div>
-
-  <!-- Donnell -->
-  <div class="team-member">
-    <img src="/Images/DB_5991.jpeg" alt="Donnell Boney Jr." class="team-img">
-    <h3>Donnell Boney Jr.</h3>
-    <p><strong>MSc (Non-Thesis): Project Advising (2025)</strong></p>
-    <p>
-      Focused on avian nutrition and health, with experience in wildlife and domestic bird care. Involved in microbiome-immune research in broiler chickens.
-    </p>
-    <a href="/Images/DBoneyCV.pdf" target="_blank" class="cv-button">
+  <!-- Photo with CV icon -->
+  <div style="position: relative; display: inline-block; margin-bottom: 30px;">
+    <img src="/Images/DB_5991.jpeg" alt="Team Photo" width="150">
+    
+    <a href="/Images/DBoneyCV.pdf" target="_blank"
+       style="position: absolute; bottom: -20px; right: -20px;
+              background: white; border-radius: 20px; padding: 4px 8px;
+              font-size: 12px; text-decoration: none;
+              box-shadow: 0 0 4px rgba(0,0,0,0.3); display: flex;
+              align-items: center; gap: 5px;">
       <img src="https://img.icons8.com/ios-filled/50/00539B/resume.png" alt="CV" width="16">
-      <span>CV</span>
+      <span style="color: #00539B;">CV</span>
     </a>
   </div>
 
-  <!-- Violet -->
-  <div class="team-member">
-    <img src="/Images/default-profile.png" alt="Violet Geary" class="team-img">
-    <h3>Violet Geary</h3>
-    <p><strong>Summer Student – UD Envision (2025)</strong></p>
-    <p>Participating in poultry health projects through UD’s Envision summer program.</p>
+  <!-- Bio Text -->
+  <div style="max-width: 500px; font-size: 14px; line-height: 1.5; text-align: justify;">
+    <p>
+      Pursuing an MSc degree in Animal Science, with an interest in avian health and nutrition, and 8 years of experience working with avian species, both wildlife and domestic. Currently working in research involving microbiome-immune interactions and feed additives in broiler chickens. Focused on a career in the field of animal pharmaceuticals and nutrition with a focus on research and development.
+    </p>
   </div>
 
-</div>
 
-
+- Violet Geary: Summer Student - UD Envision (2025) 
 
 </div>
 
