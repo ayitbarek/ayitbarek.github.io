@@ -16,14 +16,7 @@ Assistant Professor
 - Sadique Abdallah: PhD Student (2025 - Present)
 - Aaliyah Smith: MSc Student (2024 - Present)
 - Donnell Boney Jr.: MSc (Non-Thesis: Project Advising) (2025)
-- Violet Geary: Summer Student - UD Envision (2025) 
-
-**Lab Allumni:**
-- Ayobami Aboderin: MSc Student (2023 - 2025) - McGill University
-- Dr. Atul Jadhav:  MSc Student (2023 - 2025) - McGill University
-- Makalah Wolfe: Summer Student - UD Envision (2024) - University of Delaware
-
-<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+  <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
   
   <!-- Photo with CV icon -->
   <div style="position: relative; display: inline-block; margin-bottom: 30px;">
@@ -47,4 +40,11 @@ Assistant Professor
   </div>
 
 </div>
+
+- Violet Geary: Summer Student - UD Envision (2025) 
+
+**Lab Allumni:**
+- Ayobami Aboderin: MSc Student (2023 - 2025) - McGill University
+- Dr. Atul Jadhav:  MSc Student (2023 - 2025) - McGill University
+- Makalah Wolfe: Summer Student - UD Envision (2024) - University of Delaware
 
