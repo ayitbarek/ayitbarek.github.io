@@ -23,12 +23,28 @@ Assistant Professor
 - Dr. Atul Jadhav:  MSc Student (2023 - 2025) - McGill University
 - Makalah Wolfe: Summer Student - UD Envision (2024) - University of Delaware
 
-<div style="position: relative; display: inline-block; margin-bottom: 30px;">
-  <img src="/Images/DB_5991.jpeg" alt="Team Photo" width="150">
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+  
+  <!-- Photo with CV icon -->
+  <div style="position: relative; display: inline-block; margin-bottom: 30px;">
+   <img src="/Images/DB_5991.jpeg" alt="Team Photo" width="150">
   <a href="/_data/DBoneyCV.pdf" target="_blank"
-     style="position: absolute; bottom: -15px; right: -15px;
-            background: white; border-radius: 50%; padding: 4px;
-            box-shadow: 0 0 4px rgba(0,0,0,0.3);">
-    <img src="/Icons/cv-icon.png" alt="CV" width="24">
-  </a>
+       style="position: absolute; bottom: -15px; right: -15px;
+              background: white; border-radius: 50%; padding: 4px;
+              box-shadow: 0 0 4px rgba(0,0,0,0.3);">
+      <img src="/Icons/cv-icon.png" alt="CV" width="24">
+    </a>
+  </div>
+
+  <!-- Bio Text -->
+  <div style="max-width: 500px;">
+    <p>
+      <strong>University of Delaware</strong> graduate student pursuing an MSc degree in Animal Science, with an interest in avian health and nutrition and 8 years of experience working with animals, both wildlife and domestic.
+    </p>
+    <p>
+      Currently working in research involving microbiome-immune interactions and feed additives in broiler chickens. Focused on a career in the field of animal pharmaceuticals and nutrition with a focus on research and development.
+    </p>
+  </div>
+
 </div>
+
