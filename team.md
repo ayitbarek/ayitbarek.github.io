@@ -21,7 +21,7 @@ Assistant Professor
   <!-- Photo with CV icon -->
   <div style="position: relative; display: inline-block; margin-bottom: 30px;">
    <img src="/Images/DB_5991.jpeg" alt="Team Photo" width="150">
-  <a href="/_data/DBoneyCV.pdf" target="_blank"
+  <a href="/Images/DBoneyCV.pdf" target="_blank"
        style="position: absolute; bottom: -15px; right: -15px;
               background: white; border-radius: 50%; padding: 4px;
               box-shadow: 0 0 4px rgba(0,0,0,0.3);">
