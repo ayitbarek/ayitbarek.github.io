@@ -26,7 +26,8 @@ Assistant Professor
      style="position: absolute; bottom: -15px; right: -15px;
             background: white; border-radius: 50%; padding: 4px;
             box-shadow: 0 0 4px rgba(0,0,0,0.3);">
-    <img src="https://img.icons8.com/ios-filled/50/000000/resume.png" alt="CV" width="24">
+        <img src="https://img.icons8.com/ios-filled/50/00539B/resume.png" alt="CV" width="16">
+      <span style="color: #00539B;">CV</span>
   </a>
 </div>
 
