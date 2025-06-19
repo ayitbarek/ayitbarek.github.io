@@ -8,7 +8,7 @@ permalink: /team/
 
 <div class="team-grid">
   <div>
-    <img src="/Images/Yitbarek.png" alt="Dr. Alex Yitbarek" class="team-img" style="width: 300px; height: auto; border-radius: 8px;">
+    <img src="/Images/Yitbarek.png" alt="Dr. Alex Yitbarek" class="team-img" style="width: 200px; height: auto; border-radius: 8px;">
     <h3>Dr. Alex Yitbarek</h3>
     <p><strong>Assistant Professor</strong></p>
     <p>Research interests include avian immunology, microbiome–immune interactions, and vaccine delivery systems.</p>
@@ -38,7 +38,7 @@ permalink: /team/
   <!-- Donnell Boney -->
   <div>
     <div style="position: relative;">
-      <img src="/Images/DB_5991.jpeg" alt="Donnell Boney Jr." class="team-img"  style="width: 300px; height: auto; border-radius: 8px;">
+      <img src="/Images/DB_5991.jpeg" alt="Donnell Boney Jr." class="team-img"  style="width: 200px; height: auto; border-radius: 8px;">
       <a href="/Images/DBoneyCV.pdf" target="_blank" class="cv-button">
         <img src="https://img.icons8.com/ios-filled/50/00539B/resume.png" alt="CV" width="16">
         <span>CV</span>
