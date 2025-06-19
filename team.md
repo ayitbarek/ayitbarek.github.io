@@ -9,7 +9,7 @@ permalink: /team/
 <div class="team-grid">
 
   <!-- PI -->
-  <div>
+  <div class="team-member">
     <img src="/Images/Yitbarek.png" alt="Dr. Alex Yitbarek" class="team-img">
     <h3>Dr. Alex Yitbarek</h3>
     <p><strong>Assistant Professor</strong></p>
@@ -17,21 +17,23 @@ permalink: /team/
   </div>
 
   <!-- Sadique -->
-  <div>
+  <div class="team-member">
+    <img src="/Images/default-profile.png" alt="Sadique Abdallah" class="team-img">
     <h3>Sadique Abdallah</h3>
     <p><strong>PhD Student (2025 – Present)</strong></p>
     <p>Focusing on host–microbiome interactions in poultry with implications for gut health and productivity.</p>
   </div>
 
   <!-- Aaliyah -->
-  <div>
+  <div class="team-member">
+    <img src="/Images/default-profile.png" alt="Aaliyah Smith" class="team-img">
     <h3>Aaliyah Smith</h3>
     <p><strong>MSc Student (2024 – Present)</strong></p>
     <p>Working on nutrient-microbiota-immune relationships in broilers, with an interest in sustainable feed additives.</p>
   </div>
 
   <!-- Donnell -->
-  <div>
+  <div class="team-member">
     <img src="/Images/DB_5991.jpeg" alt="Donnell Boney Jr." class="team-img">
     <h3>Donnell Boney Jr.</h3>
     <p><strong>MSc (Non-Thesis): Project Advising (2025)</strong></p>
@@ -45,13 +47,15 @@ permalink: /team/
   </div>
 
   <!-- Violet -->
-  <div>
+  <div class="team-member">
+    <img src="/Images/default-profile.png" alt="Violet Geary" class="team-img">
     <h3>Violet Geary</h3>
     <p><strong>Summer Student – UD Envision (2025)</strong></p>
-    <p>Participating in poultry health and microbiome projects through UD’s Envision summer program.</p>
+    <p>Participating in poultry health projects through UD’s Envision summer program.</p>
   </div>
 
 </div>
+
 
 
 </div>
