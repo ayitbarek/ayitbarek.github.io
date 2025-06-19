@@ -42,6 +42,7 @@ Assistant Professor
 </div>
 - Violet Geary: Summer Student - UD Envision (2025) 
 
+</div>
 
 **Lab Allumni:**
 - Ayobami Aboderin: MSc Student (2023 - 2025) - McGill University
