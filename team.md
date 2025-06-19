@@ -4,49 +4,75 @@ title: "The Team"
 permalink: /team/
 ---
 
-<!-- Page content starts below -->
+## Principal Investigator
 
-#### Principal Investigator
-**Dr. Alex Yitbarek**  
-Assistant Professor 
+<div class="team-grid">
+  <div>
+    <img src="/Images/Yitbarek.png" alt="Dr. Alex Yitbarek" class="team-img">
+    <h3>Dr. Alex Yitbarek</h3>
+    <p><strong>Assistant Professor</strong></p>
+    <p>Research interests include avian immunology, microbiome–immune interactions, and vaccine delivery systems.</p>
+  </div>
+</div>
 
-<img src="/Images/Yitbarek.png" alt="Team Photo" width="150">
-    
-**Students:**
-- Sadique Abdallah: PhD Student (2025 - Present)
-- Aaliyah Smith: MSc Student (2024 - Present)
+---
 
-<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+## Current Students & Trainees
 
-  <!-- Photo with CV icon -->
-  <div style="position: relative; display: inline-block; margin-bottom: 30px;">
-    <img src="/Images/DB_5991.jpeg" alt="Team Photo" width="150">
+<div class="team-grid">
 
-    <a href="/Images/DBoneyCV.pdf" target="_blank"
-       style="position: absolute; bottom: -20px; right: -20px;
-              background: white; border-radius: 20px; padding: 4px 8px;
-              font-size: 12px; text-decoration: none;
-              box-shadow: 0 0 4px rgba(0,0,0,0.3); display: flex;
-              align-items: center; gap: 5px;">
+  <div>
+    <h3>Sadique Abdallah</h3>
+    <p><strong>PhD Student (2025 – Present)</strong></p>
+    <p>Focusing on host–microbiome interactions in poultry with implications for gut health and productivity.</p>
+  </div>
+
+  <div>
+    <h3>Aaliyah Smith</h3>
+    <p><strong>MSc Student (2024 – Present)</strong></p>
+    <p>Working on nutrient-microbiota-immune relationships in broilers, with an interest in sustainable feed additives.</p>
+  </div>
+
+  <div>
+    <img src="/Images/DB_5991.jpeg" alt="Donnell Boney Jr." class="team-img">
+    <h3>Donnell Boney Jr.</h3>
+    <p><strong>MSc (Non-Thesis): Project Advising (2025)</strong></p>
+    <p>
+      Pursuing an MSc in Animal Science with 8 years of experience working with avian species, both wildlife and domestic. Current work includes microbiome–immune interaction studies and feed additive trials in broilers. Career goal: R&D in animal pharmaceuticals and nutrition.
+    </p>
+    <a href="/Images/DBoneyCV.pdf" target="_blank" class="cv-button">
       <img src="https://img.icons8.com/ios-filled/50/00539B/resume.png" alt="CV" width="16">
-      <span style="color: #00539B;">CV</span>
+      <span>CV</span>
     </a>
   </div>
 
-  <!-- Name + Bio (to the right of photo) -->
-  <div style="flex: 1; min-width: 250px; font-size: 14px; line-height: 1.5; text-align: justify;">
-    <p><strong>Donnell Boney Jr.: MSc (Non-Thesis: Project Advising) (2025)</strong></p>
-    <p>
-      Pursuing an MSc degree in Animal Science, with an interest in avian health and nutrition, and 8 years of experience working with avian species, both wildlife and domestic. Currently working in research involving microbiome-immune interactions and feed additives in broiler chickens. Focused on a career in the field of animal pharmaceuticals and nutrition with a focus on research and development.
-    </p>
-
-      
-- Violet Geary: Summer Student - UD Envision (2025) 
+  <div>
+    <h3>Violet Geary</h3>
+    <p><strong>Summer Student – UD Envision (2025)</strong></p>
+    <p>Participating in poultry health and microbiome projects through UD’s Envision summer program.</p>
+  </div>
 
 </div>
 
-**Lab Allumni:**
-- Ayobami Aboderin: MSc Student (2023 - 2025) - McGill University
-- Dr. Atul Jadhav:  MSc Student (2023 - 2025) - McGill University
-- Makalah Wolfe: Summer Student - UD Envision (2024) - University of Delaware
+---
 
+## Lab Alumni
+
+<div class="team-grid">
+
+  <div>
+    <h3>Ayobami Aboderin</h3>
+    <p><strong>MSc Student (2023 – 2025)</strong><br>Now at McGill University</p>
+  </div>
+
+  <div>
+    <h3>Dr. Atul Jadhav</h3>
+    <p><strong>MSc Student (2023 – 2025)</strong><br>Now at McGill University</p>
+  </div>
+
+  <div>
+    <h3>Makalah Wolfe</h3>
+    <p><strong>Summer Student – UD Envision (2024)</strong><br>University of Delaware</p>
+  </div>
+
+</div>
