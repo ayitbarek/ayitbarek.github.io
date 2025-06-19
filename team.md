@@ -8,7 +8,7 @@ permalink: /team/
 
 <div class="team-grid">
   <div>
-    <img src="/Images/Yitbarek.png" alt="Dr. Alex Yitbarek" class="team-img" style="width: 120px; height: auto; border-radius: 8px;">
+    <img src="/Images/Yitbarek.png" alt="Dr. Alex Yitbarek" class="team-img" style="width: 400px; height: auto; border-radius: 8px;">
     <h3>Dr. Alex Yitbarek</h3>
     <p><strong>Assistant Professor</strong></p>
     <p>Research interests include avian immunology, microbiome–immune interactions, and vaccine delivery systems.</p>
@@ -34,7 +34,7 @@ permalink: /team/
   </div>
 
   <div>
-    <img src="/Images/DB_5991.jpeg" alt="Team Photo" style="width: 120px; height: auto; border-radius: 8px;">
+    <img src="/Images/DB_5991.jpeg" alt="Team Photo" style="width: 400px; height: auto; border-radius: 8px;">
     <h3>Donnell Boney Jr.</h3>
     <p><strong>MSc (Non-Thesis): Project Advising (2025)</strong></p>
     <p>
