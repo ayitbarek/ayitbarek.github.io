@@ -34,22 +34,9 @@ Assistant Professor
     </a>
   </div>
 
-<!-- Donnell -->
-<div class="team-member">
-  <img src="/Images/DB_5991.jpeg" alt="Donnell Boney Jr." class="team-img">
-  <h3>Donnell Boney Jr.</h3>
-  <p><strong>MSc (Non-Thesis: Project Advising) (2025)</strong></p>
-  <p style="text-align: justify;">
-    Pursuing an MSc degree in Animal Science, with an interest in avian health and nutrition, and 8 years of experience working with avian species, both wildlife and domestic. Currently working in research involving microbiome-immune interactions and feed additives in broiler chickens. Focused on a career in the field of animal pharmaceuticals and nutrition with a focus on research and development.
-  </p>
-  <a href="/Images/DBoneyCV.pdf" target="_blank" class="cv-button">
-    <img src="https://img.icons8.com/ios-filled/50/00539B/resume.png" alt="CV" width="16">
-    <span>CV</span>
-  </a>
-</div>
-
   <!-- Bio Text -->
-  <div style="max-width: 500px; font-size: 14px; line-height: 1.5; text-align: justify;">
+  <div style="flex: 1; min-width: 250px; font-size: 14px; line-height: 1.5; text-align: justify;">
+    <p><strong>Donnell Boney Jr.: MSc (Non-Thesis: Project Advising) (2025)</strong></p>
     <p>
 Pursuing an MSc degree in Animal Science, with an interest in avian health and nutrition, and 8 years of experience working with avian species, both wildlife and domestic. Currently working in research involving microbiome-immune interactions and feed additives in broiler chickens. Focused on a career in the field of animal pharmaceuticals and nutrition with a focus on research and development.
     </p>
