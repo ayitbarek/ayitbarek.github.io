@@ -25,7 +25,7 @@ Assistant Professor
 
 <div style="position: relative; display: inline-block;">
   <img src="/Images/DB_5991.jpeg" alt="Team Photo" width="150">
-  <a href="/Course Files/DBoney CV June 19 2025.pdf" target="_blank" 
+  <a href="/_data/DBoneyCV.pdf" target="_blank" 
      style="position: absolute; bottom: 5px; right: 5px; 
             background: white; border-radius: 50%; padding: 2px;
             box-shadow: 0 0 4px rgba(0,0,0,0.3);">
