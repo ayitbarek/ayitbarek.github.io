@@ -33,23 +33,33 @@ permalink: /team/
     <p>Working on nutrient-microbiota-immune relationships in broilers, with an interest in sustainable feed additives.</p>
   </div>
 
-  <div>
+  <div style="width: 300px;">
+
+  <!-- Image + CV icon wrapper -->
+  <div style="position: relative; display: inline-block;">
     <img src="/Images/DB_5991.jpeg" alt="Team Photo" style="width: 300px; height: auto; border-radius: 8px;">
-    <h3>Donnell Boney Jr.</h3>
-    <p><strong>MSc (Non-Thesis): Project Advising (2025)</strong></p>
-    <p>
-      Pursuing an MSc in Animal Science with 8 years of experience working with avian species, both wildlife and domestic. Current work includes microbiome–immune interaction studies and feed additive trials in broilers. Career goal: R&D in animal pharmaceuticals and nutrition.
-    </p>
+    
+    <!-- CV Icon in bottom-right corner of image -->
     <a href="/Images/DBoneyCV.pdf" target="_blank"
-   style="position: absolute; bottom: 0; right: 0;
-          background: white; border-radius: 20px; padding: 4px 8px;
-          font-size: 12px; text-decoration: none;
-          box-shadow: 0 0 4px rgba(0,0,0,0.3); display: flex;
-          align-items: center; gap: 5px;">
-  <img src="https://img.icons8.com/ios-filled/50/00539B/resume.png" alt="CV" width="16">
-  <span style="color: #00539B;">CV</span>
-</a>
+       style="position: absolute; bottom: 8px; right: 8px;
+              background: white; border-radius: 20px; padding: 4px 8px;
+              font-size: 12px; text-decoration: none;
+              box-shadow: 0 0 4px rgba(0,0,0,0.3); display: flex;
+              align-items: center; gap: 5px;">
+      <img src="https://img.icons8.com/ios-filled/50/00539B/resume.png" alt="CV" width="16">
+      <span style="color: #00539B;">CV</span>
+    </a>
   </div>
+
+  <!-- Name and Bio -->
+  <h3>Donnell Boney Jr.</h3>
+  <p><strong>MSc (Non-Thesis): Project Advising (2025)</strong></p>
+  <p>
+    Pursuing an MSc in Animal Science with 8 years of experience working with avian species, both wildlife and domestic. Current work includes microbiome–immune interaction studies and feed additive trials in broilers. Career goal: R&D in animal pharmaceuticals and nutrition.
+  </p>
+
+</div>
+
 
   <div>
     <h3>Violet Geary</h3>
