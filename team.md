@@ -20,15 +20,15 @@ Assistant Professor
   <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
   
   <!-- Photo with CV icon -->
-  <div style="position: relative; display: inline-block; margin-bottom: 30px;">
-   <img src="/Images/DB_5991.jpeg" alt="Team Photo" width="150">
+<div style="position: relative; display: inline-block; margin-bottom: 30px;">
+  <img src="/Images/DB_5991.jpeg" alt="Team Photo" width="150">
   <a href="/Images/DBoneyCV.pdf" target="_blank"
-       style="position: absolute; bottom: -15px; right: -15px;
-              background: white; border-radius: 50%; padding: 4px;
-              box-shadow: 0 0 4px rgba(0,0,0,0.3);">
-      <img src="/Icons/cv-icon.png" alt="CV" width="24">
-    </a>
-  </div>
+     style="position: absolute; bottom: -15px; right: -15px;
+            background: white; border-radius: 50%; padding: 4px;
+            box-shadow: 0 0 4px rgba(0,0,0,0.3);">
+    <img src="https://img.icons8.com/ios-filled/50/000000/resume.png" alt="CV" width="24">
+  </a>
+</div>
 
   <!-- Bio Text -->
   <div style="max-width: 400px;">
