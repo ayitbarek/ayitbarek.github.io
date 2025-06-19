@@ -58,7 +58,7 @@ permalink: /team/
     <p>
       Pursuing an MSc in Animal Science with 8 years of experience working with avian species, both wildlife and domestic. Current work includes microbiome–immune interaction studies and feed additive trials in broilers. Career goal: R&D in animal pharmaceuticals and nutrition.
     </p>
-
+<div>
   <div>
     <h3>Violet Geary</h3>
     <p><strong>Summer Student – UD Envision (2025)</strong></p>
