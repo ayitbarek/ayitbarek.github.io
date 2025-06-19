@@ -41,10 +41,11 @@ permalink: /team/
   <!-- Image with CV icon -->
   <div style="position: relative;">
     <img src="/Images/DB_5991.jpeg" alt="Donnell Boney Jr." class="team-img" style="width: 200px; height: auto; border-radius: 8px;">
-    <a href="/Images/DBoneyCV.pdf" target="_blank" class="cv-button">
-      <img src="https://img.icons8.com/ios-filled/50/00539B/resume.png" alt="CV" width="16">
-      <span>CV</span>
-    </a>
+    <a href="/Images/DBoneyCV.pdf" target="_blank" class="cv-button-popout">
+  <img src="https://img.icons8.com/ios-filled/50/00539B/resume.png" alt="CV" width="16">
+  <span>CV</span>
+</a>
+
   </div>
 
   <!-- Text content -->
