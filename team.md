@@ -24,8 +24,8 @@ Assistant Professor
 - Makalah Wolfe: Summer Student - UD Envision (2024) - University of Delaware
 
 <div style="position: relative; display: inline-block;">
-  <img src="/Images/Yitbarek.png" alt="Team Photo" width="150">
-  <a href="/CV/Yitbarek_CV.pdf" target="_blank" 
+  <img src="/Images/DB_5991.jpeg" alt="Team Photo" width="150">
+  <a href="/Course Files/DBoney CV June 19 2025.pdf" target="_blank" 
      style="position: absolute; bottom: 5px; right: 5px; 
             background: white; border-radius: 50%; padding: 2px;
             box-shadow: 0 0 4px rgba(0,0,0,0.3);">
