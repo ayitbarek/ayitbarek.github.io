@@ -34,7 +34,7 @@ permalink: /team/
   </div>
 
   <div>
-    <img src="/Images/DB_5991.jpeg" alt="Donnell Boney Jr." class="team-img">
+    <img src="/Images/DB_5991.jpeg" alt="Donnell Boney Jr." style="width: 120px; height: auto; border-radius: 8px;>
     <h3>Donnell Boney Jr.</h3>
     <p><strong>MSc (Non-Thesis): Project Advising (2025)</strong></p>
     <p>
