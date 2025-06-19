@@ -41,8 +41,6 @@ Assistant Professor
     </p>
   </div>
 
-</div>
-
 
 - Violet Geary: Summer Student - UD Envision (2025) 
 
