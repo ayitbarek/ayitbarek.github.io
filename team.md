@@ -33,32 +33,25 @@ permalink: /team/
     <p>Working on nutrient-microbiota-immune relationships in broilers, with an interest in sustainable feed additives.</p>
   </div>
 
- <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+ <div class="team-grid">
 
-  <!-- Photo with CV icon outside bottom-right -->
-  <div style="position: relative; display: inline-block; margin-bottom: 30px;">
-    <img src="/Images/DB_5991.jpeg" alt="Team Photo" style="width: 300px; height: auto; border-radius: 8px;">
-
-    <!-- CV Icon outside bottom-right corner -->
-    <a href="/Images/DBoneyCV.pdf" target="_blank"
-       style="position: absolute; bottom: -20px; right: -20px;
-              background: white; border-radius: 20px; padding: 4px 8px;
-              font-size: 12px; text-decoration: none;
-              box-shadow: 0 0 4px rgba(0,0,0,0.3); display: flex;
-              align-items: center; gap: 5px;">
-      <img src="https://img.icons8.com/ios-filled/50/00539B/resume.png" alt="CV" width="16">
-      <span style="color: #00539B;">CV</span>
-    </a>
-  </div>
-
-  <!-- Name, Title, Bio to the right -->
-  <div style="flex: 1; min-width: 250px; font-size: 14px; line-height: 1.5; text-align: justify;">
-    <h3 style="margin-top: 0;">Donnell Boney Jr.</h3>
+  <!-- Donnell Boney -->
+  <div>
+    <div style="position: relative;">
+      <img src="/Images/DB_5991.jpeg" alt="Donnell Boney Jr." class="team-img">
+      <a href="/Images/DBoneyCV.pdf" target="_blank" class="cv-button">
+        <img src="https://img.icons8.com/ios-filled/50/00539B/resume.png" alt="CV" width="16">
+        <span>CV</span>
+      </a>
+    </div>
+    <h3>Donnell Boney Jr.</h3>
     <p><strong>MSc (Non-Thesis): Project Advising (2025)</strong></p>
     <p>
       Pursuing an MSc in Animal Science with 8 years of experience working with avian species, both wildlife and domestic. Current work includes microbiome–immune interaction studies and feed additive trials in broilers. Career goal: R&D in animal pharmaceuticals and nutrition.
     </p>
-<div>
+  </div>
+
+  <!-- Violet Geary -->
   <div>
     <h3>Violet Geary</h3>
     <p><strong>Summer Student – UD Envision (2025)</strong></p>
