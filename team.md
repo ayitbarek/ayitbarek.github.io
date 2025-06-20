@@ -90,7 +90,7 @@ permalink: /team/
   <div>
     <h3 style="margin-bottom: 0;">Violet Geary</h3>
     <p style="margin-top: 0; margin-bottom: 4px;">Summer Student – UD Envision (2025)</p>
-    <p style="margin-top: 0;">The role of iron in _Clostridium perfringens_-induced necrotic enteritis.</p>
+    <p style="margin-top: 0;">The role of iron in <em>Clostridium perfringens</em>-induced necrotic enteritis.</p>
   </div>
 </div>
 
