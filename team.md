@@ -75,8 +75,6 @@ permalink: /team/
 
 </div>
 
----
-
 ## Lab Alumni
 
 <div class="team-grid">
