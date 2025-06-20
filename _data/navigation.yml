@@ -1,3 +1,7 @@
+- title: Home
+  url: /
+- title: Team
+  url: /team.html
 - title: Publications1
   url: /publications1.html
   children:
@@ -5,3 +9,5 @@
       url: /publications1.html#journal-articles
     - title: Conference Proceedings
       url: /publications1.html#conference-proceedings
+- title: Contact
+  url: /contact.html
