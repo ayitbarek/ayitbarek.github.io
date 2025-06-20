@@ -6,7 +6,9 @@ permalink: /team/
 
 ## Principal Investigator
 
-<div style="display: flex; gap: 8px; align-items: flex-start; flex-wrap: wrap; margin-top: 20px;">
+<h2 style="margin-bottom: 32px;">Principal Investigator</h2>
+
+<div style="display: flex; gap: 8px; align-items: flex-start; flex-wrap: wrap; margin-top: 0;">
 
   <!-- Image + CV Icon -->
   <div style="position: relative;">
@@ -33,6 +35,7 @@ permalink: /team/
   </div>
 
 </div>
+
 
 
 ---
