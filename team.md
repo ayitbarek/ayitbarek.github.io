@@ -37,7 +37,7 @@ permalink: /team/
 
 ---
 
-## Current Students & Trainees
+## Current Students
 
 <div class="team-grid">
 
