@@ -6,14 +6,36 @@ permalink: /team/
 
 ## Principal Investigator
 
-<div class="team-grid">
-  <div>
+## Principal Investigator
+
+<div style="display: flex; gap: 8px; align-items: flex-start; flex-wrap: wrap; margin-top: 20px;">
+
+  <!-- Image + CV Icon -->
+  <div style="position: relative;">
     <img src="/Images/Yitbarek.png" alt="Dr. Alex Yitbarek" class="team-img" style="width: 200px; height: auto; border-radius: 8px;">
-    <h3 style="margin-bottom: 0;">Dr. Alex Yitbarek</h3>
-    <p style="margin-top: 0; margin-bottom: 4px;">Assistant Professor</p>
-    <p style="margin-top: 0;">Research interests include avian immunology, microbiome–immune interactions, and vaccine delivery systems.</p>
+    
+    <a href="/Images/YitbarekCV.pdf" target="_blank" class="cv-button-oval"
+       style="position: absolute; bottom: -20px; right: -20px;
+              background: white; border-radius: 999px; padding: 6px 10px;
+              font-size: 13px; font-weight: bold; text-decoration: none;
+              box-shadow: 0 4px 10px rgba(0,0,0,0.3); display: inline-flex;
+              align-items: center; gap: 6px; color: #00539B; border: 1px solid #00539B;">
+      <img src="https://img.icons8.com/ios-filled/50/00539B/resume.png" alt="CV" width="16">
+      <span>CV</span>
+    </a>
   </div>
+
+  <!-- Text Content -->
+  <div style="flex: 1; min-width: 250px;">
+    <h3 style="margin-top: 0; margin-bottom: 0;">Dr. Alex Yitbarek</h3>
+    <p style="margin-top: 0; margin-bottom: 4px;"><strong>Assistant Professor</strong></p>
+    <p style="margin-top: 0;">
+      Research interests include avian immunology, microbiome–immune interactions, and vaccine delivery systems.
+    </p>
+  </div>
+
 </div>
+
 
 ---
 
