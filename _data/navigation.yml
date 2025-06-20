@@ -1,1 +1,14 @@
+- title: Home
+  url: /
+- title: Team
+  url: /team.html
+- title: Publications
+  url: /publications.html
+  children:
+    - title: Journal Articles
+      url: /publications.html#journal-articles
+    - title: Conference Proceedings
+      url: /publications.html#conference-proceedings
+- title: Contact
+  url: /contact.html
 
