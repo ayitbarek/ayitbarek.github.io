@@ -214,16 +214,27 @@ body {
   margin-bottom: 10px;
 }
 
-.cv-button {
+.cv-button-oval {
+  position: absolute;
+  bottom: -15px;
+  right: -15px;
   display: inline-flex;
   align-items: center;
   gap: 6px;
-  padding: 4px 10px;
+  padding: 6px 12px;
   background: white;
-  border-radius: 20px;
+  border-radius: 999px;  /* This creates the oval shape */
   font-size: 13px;
-  text-decoration: none;
-  box-shadow: 0 0 4px rgba(0,0,0,0.3);
+  font-weight: bold;
   color: #00539B;
-  margin-top: 10px;
+  text-decoration: none;
+  border: 1px solid #00539B;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  z-index: 10;
+}
+
+.cv-button-oval:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.4);
 }
