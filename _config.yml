@@ -11,6 +11,14 @@ header_pages:
   - open-positions.md
   - facilities.md
   - Funding.md
+  - title: Publications1
+  url: /publications1.html
+  children:
+    - title: Journal Articles
+      url: /publications1.html#journal-articles
+    - title: Conference Proceedings
+      url: /publications1.html#conference-proceedings
+
 
 include:
   - assets
