@@ -6,8 +6,6 @@ permalink: /team/
 
 ## Principal Investigator
 
-## Principal Investigator
-
 <div style="display: flex; gap: 8px; align-items: flex-start; flex-wrap: wrap; margin-top: 20px;">
 
   <!-- Image + CV Icon -->
