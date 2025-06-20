@@ -36,15 +36,15 @@ permalink: /team/
  <div class="team-grid">
 
   <!-- Donnell Boney -->
-  <div style="display: flex; gap: 12px; align-items: flex-start; flex-wrap: wrap;">
+  <div style="display: flex; gap: 4px; align-items: flex-start; flex-wrap: wrap;">
 
   <!-- Image with CV icon -->
   <div style="position: relative;">
     <img src="/Images/DB_5991.jpeg" alt="Donnell Boney Jr." class="team-img" style="width: 200px; height: auto; border-radius: 8px;">
-    <a href="/Images/DBoneyCV.pdf" target="_blank" class="cv-button-popout">
+    <a href="/Images/DBoneyCV.pdf" target="_blank" class="cv-button-oval">
   <img src="https://img.icons8.com/ios-filled/50/00539B/resume.png" alt="CV" width="16">
   <span>CV</span>
-</a>
+</a
 
   </div>
 
