@@ -26,7 +26,7 @@ permalink: /team/
   <!-- Text Content -->
   <div style="flex: 1; min-width: 250px;">
     <h3 style="margin-top: 0; margin-bottom: 0;">Dr. Alex Yitbarek</h3>
-    <p style="margin-top: 0; margin-bottom: 4px;"><strong>Assistant Professor</strong></p>
+    <p style="margin-top: 0; margin-bottom: 4px;">Assistant Professor</p>
     <p style="margin-top: 0;">
       Research interests include avian immunology, microbiome–immune and host–pathogen interactions, and novel poultry vaccines and delivery systems.
     </p>
@@ -43,13 +43,13 @@ permalink: /team/
 
   <div>
     <h3 style="margin-bottom: 0;">Sadique Abdallah</h3>
-    <p style="margin-top: 0; margin-bottom: 4px;"><strong>PhD Student (2025 – Present)</strong></p>
+    <p style="margin-top: 0; margin-bottom: 4px;">PhD Student (2025 – Present)</p>
     <p style="margin-top: 0;">Focusing on host–microbiome interactions in poultry with implications for gut health and productivity.</p>
   </div>
 
   <div>
     <h3 style="margin-bottom: 0;">Aaliyah Smith</h3>
-    <p style="margin-top: 0; margin-bottom: 4px;"><strong>MSc Student (2024 – Present)</strong></p>
+    <p style="margin-top: 0; margin-bottom: 4px;">MSc Student (2024 – Present)</p>
     <p style="margin-top: 0;">Working on nutrient-microbiota-immune relationships in broilers, with an interest in sustainable feed additives.</p>
   </div>
 
@@ -75,7 +75,7 @@ permalink: /team/
   <!-- Text block -->
   <div style="flex: 1; min-width: 250px;">
     <h3 style="margin-top: 0; margin-bottom: 0;">Donnell Boney Jr.</h3>
-    <p style="margin-top: 0; margin-bottom: 4px;"><strong>MSc (Non-Thesis): Project Advising (2025)</strong></p>
+    <p style="margin-top: 0; margin-bottom: 4px;">MSc (Non-Thesis): Project Advising (2025)</p>
     <p style="margin-top: 0;">
       Pursuing an MSc in Animal Science with 8 years of experience working with avian species, both wildlife and domestic.
       Current work includes microbiome–immune interaction studies and feed additive trials in broilers.
@@ -89,7 +89,7 @@ permalink: /team/
 <div class="team-grid" style="margin-top: 30px;">
   <div>
     <h3 style="margin-bottom: 0;">Violet Geary</h3>
-    <p style="margin-top: 0; margin-bottom: 4px;"><strong>Summer Student – UD Envision (2025)</strong></p>
+    <p style="margin-top: 0; margin-bottom: 4px;">Summer Student – UD Envision (2025)</p>
     <p style="margin-top: 0;">Participating in poultry health and microbiome projects through UD’s Envision summer program.</p>
   </div>
 </div>
