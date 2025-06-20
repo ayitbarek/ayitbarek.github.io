@@ -36,7 +36,7 @@ permalink: /team/
  <div class="team-grid">
 
   <!-- Donnell Boney -->
-  <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
+  <div style="display: flex; gap: 12px; align-items: flex-start; flex-wrap: wrap;">
 
   <!-- Image with CV icon -->
   <div style="position: relative;">
