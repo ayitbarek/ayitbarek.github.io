@@ -9,11 +9,14 @@ permalink: /team/
 <div class="team-grid">
   <div>
     <img src="/Images/Yitbarek.png" alt="Dr. Alex Yitbarek" class="team-img" style="width: 200px; height: auto; border-radius: 8px;">
-    <h3>Dr. Alex Yitbarek</h3>
-    <p style="margin: 0;">Assistant Professor</p>
-    <p style="margin: 4px 0 0;">Research interests include avian immunology, microbiome–immune interactions, and vaccine delivery systems.</p>
+
+    <h3 style="margin-bottom: 0;">Dr. Alex Yitbarek</h3>
+    <p style="margin-top: 0; margin-bottom: 4px;">Assistant Professor</p>
+
+    <p style="margin-top: 0;">Research interests include avian immunology, microbiome–immune interactions, and vaccine delivery systems.</p>
   </div>
 </div>
+
 
 
 ## Current Students & Trainees
