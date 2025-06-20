@@ -26,7 +26,7 @@ We work across **basic immunology**, **microbial ecology**, and **applied poultr
 
 🔬 **Trial Launched**: 
 
-📢 **Open Positions**:
+📢 **Open Positions**: We are seeking an MSc student to join a project on novel vaccine development and delivery against low and high pathogenic avian influenza viruses.
 
 ---
 
