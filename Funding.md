@@ -14,6 +14,6 @@ permalink: /Funding/
   <img src="/Images/cprc.png" alt="UD" style="height: 100px;">
 </div>
 
-#### We also thank out industry collaborators. ####
+#### We also thank our industry collaborators. ####
 
 These grants and partnerships support our mission to advance poultry health through microbiome research, vaccine innovation, and nutritional immunology.
