@@ -56,8 +56,6 @@ permalink: /team/
     </p>
   </div>
 
-</div>
-
 
   <!-- Violet Geary -->
   <div>
