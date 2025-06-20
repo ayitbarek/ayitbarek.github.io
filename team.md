@@ -20,7 +20,7 @@ permalink: /team/
   <!-- Text Content -->
   <div style="flex: 1; min-width: 250px;">
     <h3 style="margin-top: 0; margin-bottom: 0;">Dr. Alex Yitbarek</h3>
-    <p style="margin-top: 0; margin-bottom: 4px;"><strong>Assistant Professor</strong></p>
+    <p style="margin-top: 0; margin-bottom: 4px;">Assistant Professor</p>
     <p style="margin-top: 0;">Research interests include avian immunology, microbiome–immune and host–pathogen interactions, and novel poultry vaccines and delivery systems.</p>
   </div>
 
