@@ -82,17 +82,17 @@ permalink: /team/
 
   <div>
     <h3 style="margin-bottom: 0;">Ayobami Aboderin</h3>
-    <p style="margin-top: 0;"><strong>MSc Student (2023 – 2025)</strong><br>Now at McGill University</p>
+    <p style="margin-top: 0;">MSc Student (2023 – 2025)<br>Now at McGill University</p>
   </div>
 
   <div>
     <h3 style="margin-bottom: 0;">Dr. Atul Jadhav</h3>
-    <p style="margin-top: 0;"><strong>MSc Student (2023 – 2025)</strong><br>Now at McGill University</p>
+    <p style="margin-top: 0;">MSc Student (2023 – 2025)<br>McGill University</p>
   </div>
 
   <div>
     <h3 style="margin-bottom: 0;">Makalah Wolfe</h3>
-    <p style="margin-top: 0;"><strong>Summer Student – UD Envision (2024)</strong><br>University of Delaware</p>
+    <p style="margin-top: 0;">Summer Student – UD Envision (2024)<br>University of Delaware</p>
   </div>
 
 </div>
