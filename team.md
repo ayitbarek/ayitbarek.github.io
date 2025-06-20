@@ -10,7 +10,7 @@ permalink: /team/
   <div>
     <img src="/Images/Yitbarek.png" alt="Dr. Alex Yitbarek" class="team-img" style="width: 200px; height: auto; border-radius: 8px;">
     <h3>Dr. Alex Yitbarek</h3>
-    <p><strong>Assistant Professor</strong></p>
+    Assistant Professor
     <p>Research interests include avian immunology, microbiome–immune interactions, and vaccine delivery systems.</p>
   </div>
  </div>
@@ -27,7 +27,7 @@ permalink: /team/
 
   <div>
     <h3>Aaliyah Smith</h3>
-    <p><strong>MSc Student (2024 – Present)</strong></p>
+    MSc Student (2024 – Present)
     <p>Working on nutrient-microbiota-immune relationships in broilers, with an interest in sustainable feed additives.</p>
   </div>
 
@@ -55,7 +55,7 @@ permalink: /team/
   <!-- Text content -->
   <div style="flex: 1; min-width: 250px;">
     <h3 style="margin-top: 0;">Donnell Boney Jr.</h3>
-    <p><strong>MSc (Non-Thesis): Project Advising (2025)</strong></p>
+    MSc (Non-Thesis): Project Advising (2025)
     <p>
       Pursuing an MSc in Animal Science with 8 years of experience working with avian species, both wildlife and domestic.
       Current work includes microbiome–immune interaction studies and feed additive trials in broilers.
