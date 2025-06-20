@@ -21,7 +21,7 @@ permalink: /team/
 
   <div>
     <h3>Sadique Abdallah</h3>
-    <p><strong>PhD Student (2025 – Present)</strong></p>
+    PhD Student (2025 – Present)
     <p>Focusing on host–microbiome interactions in poultry with implications for gut health and productivity.</p>
   </div>
 
