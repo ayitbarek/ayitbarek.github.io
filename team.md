@@ -13,6 +13,7 @@ permalink: /team/
     <p><strong>Assistant Professor</strong></p>
     <p>Research interests include avian immunology, microbiome–immune interactions, and vaccine delivery systems.</p>
   </div>
+ </div>
 
 ## Current Students & Trainees
 
