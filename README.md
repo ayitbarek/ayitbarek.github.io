@@ -24,7 +24,7 @@ We work across **basic immunology**, **microbial ecology**, and **applied poultr
 
 📈 **Grant Awarded**: 
 
-🔬 **Trial Launched**: Investigating the role of iron in modulating the pathogenesis of <me>Clostridium perfringens<me> in chickens.
+🔬 **Trial Launched**: Investigating the role of iron in modulating the pathogenesis of <em>Clostridium perfringens<em> in chickens.
 
 📢 **Open Positions**: We are seeking an MSc student to join a project on novel vaccine development and delivery against low and high pathogenic avian influenza viruses.
 
