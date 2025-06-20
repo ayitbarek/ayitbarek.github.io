@@ -4,8 +4,6 @@ title: "The Team"
 permalink: /team/
 ---
 
-## Principal Investigator
-
 <h2 style="margin-bottom: 32px;">Principal Investigator</h2>
 
 <div style="display: flex; gap: 8px; align-items: flex-start; flex-wrap: wrap; margin-top: 0;">
