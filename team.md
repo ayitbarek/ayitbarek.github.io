@@ -4,20 +4,14 @@ title: "The Team"
 permalink: /team/
 ---
 
-<h2 style="margin-bottom: 32px;">Principal Investigator</h2>
+<h2 style="margin-bottom: 16px;">Principal Investigator</h2>
 
-<div style="display: flex; gap: 8px; align-items: flex-start; flex-wrap: wrap; margin-top: 0;">
+<div style="display: flex; gap: 10px; align-items: flex-start; margin-bottom: 32px;">
 
   <!-- Image + CV Icon -->
   <div style="position: relative;">
-    <img src="/Images/Yitbarek.png" alt="Dr. Alex Yitbarek" class="team-img" style="width: 200px; height: auto; border-radius: 8px;">
-    
-    <a href="/Images/YitbarekCV.pdf" target="_blank" class="cv-button-oval"
-       style="position: absolute; bottom: -20px; right: -20px;
-              background: white; border-radius: 999px; padding: 6px 10px;
-              font-size: 13px; font-weight: bold; text-decoration: none;
-              box-shadow: 0 4px 10px rgba(0,0,0,0.3); display: inline-flex;
-              align-items: center; gap: 6px; color: #00539B; border: 1px solid #00539B;">
+    <img src="/Images/Yitbarek.png" alt="Dr. Alex Yitbarek" class="team-img" style="width: 200px; border-radius: 8px;">
+    <a href="/Images/YitbarekCV.pdf" target="_blank" class="cv-button-oval">
       <img src="https://img.icons8.com/ios-filled/50/00539B/resume.png" alt="CV" width="16">
       <span>CV</span>
     </a>
@@ -26,15 +20,11 @@ permalink: /team/
   <!-- Text Content -->
   <div style="flex: 1; min-width: 250px;">
     <h3 style="margin-top: 0; margin-bottom: 0;">Dr. Alex Yitbarek</h3>
-    <p style="margin-top: 0; margin-bottom: 4px;">Assistant Professor</p>
-    <p style="margin-top: 0;">
-      Research interests include avian immunology, microbiome–immune and host-pathogen interactions, and novel poultry vaccines and delivery systems.
-    </p>
+    <p style="margin-top: 0; margin-bottom: 4px;"><strong>Assistant Professor</strong></p>
+    <p style="margin-top: 0;">Research interests include avian immunology, microbiome–immune and host–pathogen interactions, and novel poultry vaccines and delivery systems.</p>
   </div>
 
 </div>
-
-
 
 ---
 
