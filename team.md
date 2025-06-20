@@ -70,7 +70,7 @@ permalink: /team/
   <!-- Violet Geary -->
   <div>
     <h3>Violet Geary</h3>
-    <p><strong>Summer Student – UD Envision (2025)</strong></p>
+    Summer Student – UD Envision (2025)
     <p>Participating in poultry health and microbiome projects through UD’s Envision summer program.</p>
   </div>
 
@@ -80,10 +80,10 @@ permalink: /team/
 
 <div class="team-grid">
 
-  <div>
-    <h3>Ayobami Aboderin</h3>
-    <p><strong>MSc Student (2023 – 2025)</strong><br>Now at McGill University</p>
-  </div>
+ <div>
+  <h3>Ayobami Aboderin</h3>
+  <p><strong>MSc Student (2023 – 2025)</strong><br>Now at McGill University</p>
+</div>
 
   <div>
     <h3>Dr. Atul Jadhav</h3>
