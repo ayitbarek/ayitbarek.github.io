@@ -1,7 +1,7 @@
 - title: Home
   url: /
-- title: Team
-  url: /team.html
+- title: Lab News
+  url: /Lab News.md
 - title: Publications1
   url: /publications1.html
   children:
