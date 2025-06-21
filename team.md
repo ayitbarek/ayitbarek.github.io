@@ -43,7 +43,7 @@ permalink: /team/
       Research interests include avian immunology, microbiome–immune and host–pathogen interactions, and novel poultry vaccines and delivery systems.
     </p>
   </div>
-
+  </div>
 
 ---
 
