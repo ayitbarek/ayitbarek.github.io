@@ -44,8 +44,6 @@ permalink: /team/
     </p>
   </div>
 
-</div>
-
 
 ---
 
