@@ -22,14 +22,14 @@ permalink: /team/
       <span>CV</span>
     </a>
     
- <!-- ORCID Icon Button -->
-  <a href="https://orcid.org/0000-0002-3500-0305" target="_blank" aria-label="ORCID Profile"
-     style="position: absolute; bottom: -20px; right: 60px;
-            background: #A6CE39; border-radius: 999px; padding: 6px;
-            box-shadow: 0 4px 10px rgba(0,0,0,0.3); display: inline-flex;
-            align-items: center;">
-    <img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" alt="ORCID" width="16" height="16">
-  </a>
+ <!-- ORCID Icon Button (moved right of CV) -->
+<a href="https://orcid.org/0000-0002-1825-0097" target="_blank" aria-label="ORCID Profile"
+   style="position: absolute; bottom: -20px; right: -70px;
+          background: #A6CE39; border-radius: 999px; padding: 6px;
+          box-shadow: 0 4px 10px rgba(0,0,0,0.3); display: inline-flex;
+          align-items: center;">
+  <img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" alt="ORCID" width="16" height="16">
+</a>
 </div>
 
   <!-- Text Content -->
