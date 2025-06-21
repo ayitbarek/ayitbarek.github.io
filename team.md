@@ -7,33 +7,37 @@ permalink: /team/
 
 <div style="display: flex; gap: 10px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 32px;">
 
-  <!-- Image + CV Icon -->
-  <div style="position: relative;">
-    <img src="/Images/Yitbarek.png" alt="Dr. Alex Yitbarek" class="team-img" style="width: 200px; height: auto; border-radius: 8px;">
+ <!-- Image + Buttons -->
+<div style="position: relative;">
+  <img src="/Images/Yitbarek.png" alt="Dr. Alex Yitbarek" class="team-img" style="width: 200px; height: auto; border-radius: 8px;">
 
-    <!-- Matching CV Button -->
+  <!-- Flex container for buttons -->
+  <div style="position: absolute; bottom: -20px; right: -20px; display: flex; gap: 10px;">
+    
+    <!-- CV Button -->
     <a href="/Images/YitbarekCV.pdf" target="_blank" class="cv-button-oval"
-       style="position: absolute; bottom: -20px; right: -20px;
-              background: white; border-radius: 999px; padding: 6px 10px;
+       style="background: white; border-radius: 999px; padding: 6px 10px;
               font-size: 13px; font-weight: bold; text-decoration: none;
               box-shadow: 0 4px 10px rgba(0,0,0,0.3); display: inline-flex;
               align-items: center; gap: 6px; color: #00539B; border: 1px solid #00539B;">
       <img src="https://img.icons8.com/ios-filled/50/00539B/resume.png" alt="CV" width="16">
       <span>CV</span>
     </a>
-    
- <!-- ORCID Icon Button (with label) -->
-<a href="https://orcid.org/0000-0002-1825-0097" target="_blank" aria-label="ORCID Profile"
-   style="position: absolute; bottom: -20px; right: -70px;
-          background: #A6CE39; border-radius: 999px; padding: 6px 10px;
-          box-shadow: 0 4px 10px rgba(0,0,0,0.3); display: inline-flex;
-          align-items: center; gap: 6px;
-          font-size: 13px; font-weight: bold; text-decoration: none;
-          color: white; border: 1px solid #A6CE39;">
-  <img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" alt="ORCID" width="16" height="16">
-  <span>ORCID</span>
-</a>
+
+    <!-- ORCID Button -->
+    <a href="https://orcid.org/0000-0002-1825-0097" target="_blank" aria-label="ORCID Profile"
+       style="background: #A6CE39; border-radius: 999px; padding: 6px 10px;
+              box-shadow: 0 4px 10px rgba(0,0,0,0.3); display: inline-flex;
+              align-items: center; gap: 6px;
+              font-size: 13px; font-weight: bold; text-decoration: none;
+              color: white; border: 1px solid #A6CE39;">
+      <img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" alt="ORCID" width="16" height="16">
+      <span>ORCID</span>
+    </a>
+
   </div>
+</div>
+
 
   <!-- Text Content -->
   <div style="flex: 1; min-width: 250px;">
