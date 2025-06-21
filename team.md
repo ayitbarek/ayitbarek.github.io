@@ -33,7 +33,7 @@ permalink: /team/
   <img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" alt="ORCID" width="16" height="16">
   <span>ORCID</span>
 </a>
-
+  </div>
 
   <!-- Text Content -->
   <div style="flex: 1; min-width: 250px;">
