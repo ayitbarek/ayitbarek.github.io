@@ -21,7 +21,16 @@ permalink: /team/
       <img src="https://img.icons8.com/ios-filled/50/00539B/resume.png" alt="CV" width="16">
       <span>CV</span>
     </a>
-  </div>
+    
+ <!-- ORCID Icon Button -->
+  <a href="https://orcid.org/0000-0002-3500-0305" target="_blank" aria-label="ORCID Profile"
+     style="position: absolute; bottom: -20px; right: 60px;
+            background: #A6CE39; border-radius: 999px; padding: 6px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.3); display: inline-flex;
+            align-items: center;">
+    <img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" alt="ORCID" width="16" height="16">
+  </a>
+</div>
 
   <!-- Text Content -->
   <div style="flex: 1; min-width: 250px;">
