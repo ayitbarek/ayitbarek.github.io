@@ -9,9 +9,8 @@ permalink: /team/
 
  <!-- Image + Buttons -->
 <div style="position: relative;">
- <img src="/Images/Yitbarek.png" alt="Dr. Alex Yitbarek"
-     style="width: 250px; height: 250px; object-fit: cover; border-radius: 50%;">
-
+ <img src="/Images/Yitbarek.png" alt="Dr. Alex Yitbarek" class="team-img"
+     style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px;">
   <!-- Flex container for buttons -->
   <div style="position: absolute; bottom: -20px; right: -20px; display: flex; gap: 10px;">
     
