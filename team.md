@@ -102,7 +102,7 @@ permalink: /team/
 
   <div>
     <h3 style="margin-bottom: 0;">Ayobami Aboderin</h3>
-    <p style="margin-top: 0;">MSc Student (2023 – 2025)<br>Now at McGill University</p>
+    <p style="margin-top: 0;">MSc Student (2023 – 2025)<br> McGill University</p>
   </div>
 
   <div>
