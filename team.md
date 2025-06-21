@@ -25,7 +25,7 @@ permalink: /team/
     </a>
 
     <!-- ORCID Button -->
-    <a href="https://orcid.org/0000-0002-1825-0097" target="_blank" aria-label="ORCID Profile"
+    <a href="https://orcid.org/0000-0002-3500-0305" target="_blank" aria-label="ORCID Profile"
        style="background: #A6CE39; border-radius: 999px; padding: 6px 10px;
               box-shadow: 0 4px 10px rgba(0,0,0,0.3); display: inline-flex;
               align-items: center; gap: 6px;
