@@ -267,3 +267,16 @@ body {
     opacity: 1;
   }
 }
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url('/assets/images/BacgroundImage.png');
+  background-repeat: repeat;
+  background-size: 200px auto;
+  opacity: 0.05;
+  z-index: -1;
+}
