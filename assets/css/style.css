@@ -267,10 +267,18 @@ body {
     opacity: 1;
   }
 }
-body {
-  background-image: url('/assets/images/bio-bg.png');
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('/assets/bio-bg.png'); /* Adjust if path differs */
   background-repeat: repeat;
-  background-size: 200px auto;   /* Adjust if needed */
-  background-attachment: fixed;  /* Optional: keeps it static while scrolling */
+  background-size: 200px auto;
+  opacity: 0.05; /* Controls faintness */
+  z-index: -1;
+  pointer-events: none;
 }
 
