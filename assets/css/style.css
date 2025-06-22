@@ -267,16 +267,10 @@ body {
     opacity: 1;
   }
 }
-body::before {
-  content: "";
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-  background-image: url('ayitbarek.github.io/Images/Background.png');
+body {
+  background-image: url('/Images/background.png');
   background-repeat: repeat;
-  background-size: 200px auto;
-  opacity: 0.05;
-  z-index: -1;
+  background-size: 200px auto;   /* Adjust if needed */
+  background-attachment: fixed;  /* Optional: keeps it static while scrolling */
 }
+
