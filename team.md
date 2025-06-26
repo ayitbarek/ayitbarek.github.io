@@ -93,7 +93,8 @@ permalink: /team/
     <p style="margin-top: 0;">
       Pursuing an MSc in Animal Science with 8 years of experience working with avian species, both wildlife and domestic.
       Current work includes microbiome–immune interaction studies and feed additive trials in broilers.
-      Career goal: R&D in animal pharmaceuticals and nutrition.
+      </p>
+   Career goal: R&D in animal pharmaceuticals and nutrition.
     </p>
   </div>
 
