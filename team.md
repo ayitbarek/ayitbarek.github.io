@@ -95,7 +95,7 @@ permalink: /team/
       Current work includes microbiome–immune interaction studies and feed additive trials in broilers.
       </p>
    Career goal: R&D in animal pharmaceuticals and nutrition.
-    </p>
+   
   </div>
 
 </div>
