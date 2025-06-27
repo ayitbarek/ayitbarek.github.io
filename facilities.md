@@ -30,8 +30,8 @@ Part of the [College of Agriculture and Natural Resources (CANR)](https://www.ud
   </div>
 
   <div>
-  <h3>Charles C. Allen Jr. Biotechnology Laboratory – Newark, DE</h3>
+  <h3>Charles C. Allen Jr. Biotechnology Laboratory</h3>
   <img src="/Images/allen-lab.jpeg" alt="Allen Biotechnology Lab" class="facility-img">
   <p>
-    The Allen Lab is a <strong>BSL-3, USDA-licensed, and NAHLN-approved</strong> facility dedicated to high-containment poultry disease research.  
+    The Allen Lab, located in Newar, DE, is a <strong>BSL-3, USDA-licensed, and NAHLN-approved</strong> facility dedicated to high-containment poultry disease research.  
     This building supports work on <strong>highly virulent pathogens</strong> like avian influenza and Newcastle disease in a secure and biosecure environment. 
