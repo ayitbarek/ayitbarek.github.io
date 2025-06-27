@@ -18,7 +18,7 @@ Part of the [College of Agriculture and Natural Resources (CANR)](https://www.ud
 <div class="facility-grid">
 
   <div>
-    <h3>Newark Campus</h3>
+    <h3>Newark Campus – Newark, DE</h3>
     <img src="/poultry-farm-aerial.jpeg" alt="Newark Campus" class="facility-img">
     <p>The Newark site hosts our labs, poultry facilities (BSL-2), and animal care resources for nutrition, host-pathogen interactions and microbiome research.</p>
   </div>
@@ -30,7 +30,7 @@ Part of the [College of Agriculture and Natural Resources (CANR)](https://www.ud
   </div>
 
   <div>
-  <h3>Charles C. Allen Jr. Biotechnology Laboratory</h3>
+  <h3>Charles C. Allen Jr. Biotechnology Laboratory – Newark, DE</h3>
   <img src="/Images/allen-lab.jpeg" alt="Allen Biotechnology Lab" class="facility-img">
   <p>
     The Allen Lab is a <strong>BSL-3, USDA-licensed, and NAHLN-approved</strong> facility dedicated to high-containment poultry disease research.  
