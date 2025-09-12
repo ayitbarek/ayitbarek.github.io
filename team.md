@@ -100,15 +100,6 @@ permalink: /team/
 
 </div>
 
-<!-- Violet Geary -->
-<div class="team-grid" style="margin-top: 30px;">
-  <div>
-    <h3 style="margin-bottom: 0;">Violet Geary</h3>
-    <p style="margin-top: 0; margin-bottom: 4px;">Summer Student – UD Envision (2025)</p>
-    <p style="margin-top: 0;">The role of iron in <em>Clostridium perfringens</em>-induced necrotic enteritis.</p>
-  </div>
-</div>
-
 ---
 
 ## Lab Alumni
@@ -125,6 +116,11 @@ permalink: /team/
     <p style="margin-top: 0;">MSc Student (2023 – 2025)<br>McGill University</p>
   </div>
 
+<div>
+    <h3 style="margin-bottom: 0;">Violet Geary</h3>
+    <p style="margin-top: 0;">Summer Student – UD Envision (2025)<br>University of Delaware</p>
+  </div>
+  
   <div>
     <h3 style="margin-bottom: 0;">Makalah Wolfe</h3>
     <p style="margin-top: 0;">Summer Student – UD Envision (2024)<br>University of Delaware</p>
