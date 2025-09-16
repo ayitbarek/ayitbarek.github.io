@@ -19,7 +19,7 @@ iron, and influences piglet birth weight and pre-weaning growth'
   volume: '12'
   issue: '2'
   pages: '134'
-  doi: 10.3390/vaccines12020134
+  doi: https://doi.org/10.3390/vaccines12020134
 - number: 42.0
   title: Intervention Strategies to Control Campylobacter at Different Stages of the
     Food Chain.
