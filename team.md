@@ -74,7 +74,7 @@ permalink: /team/
 
   <!-- Image with CV icon -->
   <div style="position: relative;">
-    <img src="/Images/DB_5991.jpeg" alt="Donnell Boney Jr." class="team-img" style="width: 200px; height: auto; border-radius: 8px;">
+    <img src="/Images/DB_5992.jpeg" alt="Donnell Boney Jr." class="team-img" style="width: 200px; height: auto; border-radius: 8px;">
     <a href="/Images/DBoneyCV.pdf" target="_blank" class="cv-button-oval"
        style="position: absolute; bottom: -20px; right: -20px;
               background: white; border-radius: 999px; padding: 6px 10px;
