@@ -4,29 +4,35 @@ title: "The Team"
 permalink: /team/
 ---
 
+<!-- Quick URL debugger: click these -->
+<p style="font-size:12px;opacity:.8">
+  Resolved paths →
+  <a href="{{ '/assets/images/yitbarek.png'   | relative_url }}">yitbarek.png</a> ·
+  <a href="{{ '/assets/images/DB_5992.jpg'    | relative_url }}">DB_5992.jpg</a> ·
+  <a href="{{ '/assets/images/YitbarekCV.pdf' | relative_url }}">YitbarekCV.pdf</a> ·
+  <a href="{{ '/assets/images/DBoneyCV.pdf'   | relative_url }}">DBoneyCV.pdf</a>
+</p>
+
 <h2 style="margin-bottom:16px;">Principal Investigator</h2>
 
 <div style="display:flex;gap:10px;align-items:flex-start;flex-wrap:wrap;margin-bottom:32px;">
-
   <!-- Image + Buttons -->
   <div style="position:relative;">
     <img
-      src="{{ '/Images/Yitbarek.png' | relative_url }}"
+      src="{{ '/assets/images/yitbarek.png' | relative_url }}"
       alt="Dr. Alex Yitbarek"
       class="team-img"
       style="width:200px;height:200px;object-fit:cover;border-radius:8px;"
       loading="lazy"
     >
-    <!-- Flex container for buttons -->
     <div style="position:absolute;bottom:-20px;right:-20px;display:flex;gap:10px;">
-      <!-- CV Button -->
-      <a href="{{ '/Images/YitbarekCV.pdf' | relative_url }}" target="_blank" class="cv-button-oval"
+      <!-- CV -->
+      <a href="{{ '/assets/images/YitbarekCV.pdf' | relative_url }}" target="_blank"
          style="background:white;border-radius:999px;padding:6px 10px;font-size:13px;font-weight:bold;text-decoration:none;box-shadow:0 4px 10px rgba(0,0,0,0.3);display:inline-flex;align-items:center;gap:6px;color:#00539B;border:1px solid #00539B;">
         <img src="https://img.icons8.com/ios-filled/50/00539B/resume.png" alt="CV" width="16" height="16">
         <span>CV</span>
       </a>
-
-      <!-- ORCID Button -->
+      <!-- ORCID -->
       <a href="https://orcid.org/0000-0002-3500-0305" target="_blank" aria-label="ORCID Profile"
          style="background:#A6CE39;border-radius:999px;padding:6px 10px;box-shadow:0 4px 10px rgba(0,0,0,0.3);display:inline-flex;align-items:center;gap:6px;font-size:13px;font-weight:bold;text-decoration:none;color:white;border:1px solid #A6CE39;">
         <img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" alt="ORCID" width="16" height="16">
@@ -35,9 +41,9 @@ permalink: /team/
     </div>
   </div>
 
-  <!-- Text Content -->
+  <!-- Text -->
   <div style="flex:1;min-width:250px;">
-    <h3 style="margin:0 0 0;">Dr. Alex Yitbarek</h3>
+    <h3 style="margin:0;">Dr. Alex Yitbarek</h3>
     <p style="margin:0 0 4px;">Assistant Professor</p>
     <p style="margin:0;">
       Research interests include avian immunology, microbiome–immune and host–pathogen interactions, and novel poultry vaccines and delivery systems.
@@ -63,26 +69,24 @@ permalink: /team/
   </div>
 </div>
 
-<!-- Donnell Boney in horizontal format -->
 <div style="display:flex;gap:8px;align-items:flex-start;flex-wrap:wrap;margin-top:30px;">
-
-  <!-- Image with CV icon -->
+  <!-- Donnell image + CV -->
   <div style="position:relative;">
     <img
-      src="{{ '/Images/DB_5992.jpg' | relative_url }}"
+      src="{{ '/assets/images/DB_5992.jpg' | relative_url }}"
       alt="Donnell Boney Jr."
       class="team-img"
       style="width:200px;height:auto;border-radius:8px;"
       loading="lazy"
     >
-    <a href="{{ '/Images/DBoneyCV.pdf' | relative_url }}" target="_blank" class="cv-button-oval"
+    <a href="{{ '/assets/images/DBoneyCV.pdf' | relative_url }}" target="_blank"
        style="position:absolute;bottom:-20px;right:-20px;background:white;border-radius:999px;padding:6px 10px;font-size:13px;font-weight:bold;text-decoration:none;box-shadow:0 4px 10px rgba(0,0,0,0.3);display:inline-flex;align-items:center;gap:6px;color:#00539B;border:1px solid #00539B;">
       <img src="https://img.icons8.com/ios-filled/50/00539B/resume.png" alt="CV" width="16" height="16">
       <span>CV</span>
     </a>
   </div>
 
-  <!-- Text block -->
+  <!-- Donnell text -->
   <div style="flex:1;min-width:250px;">
     <h3 style="margin:0;">Donnell Boney Jr.</h3>
     <p style="margin:0 0 4px;">MSc (Non-Thesis): Project Advising (2025)</p>
@@ -103,20 +107,16 @@ permalink: /team/
     <h3 style="margin-bottom:0;">Ayobami Aboderin</h3>
     <p style="margin-top:0;">MSc Student (2023 – 2025)<br>McGill University</p>
   </div>
-
   <div>
     <h3 style="margin-bottom:0;">Dr. Atul Jadhav</h3>
     <p style="margin-top:0;">MSc Student (2023 – 2025)<br>McGill University</p>
   </div>
-
   <div>
     <h3 style="margin-bottom:0;">Violet Geary</h3>
     <p style="margin-top:0;">Summer Student – UD Envision (2025)<br>University of Delaware</p>
   </div>
-
   <div>
     <h3 style="margin-bottom:0;">Makalah Wolfe</h3>
     <p style="margin-top:0;">Summer Student – UD Envision (2024)<br>University of Delaware</p>
   </div>
 </div>
-
