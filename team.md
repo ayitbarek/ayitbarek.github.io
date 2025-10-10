@@ -94,7 +94,8 @@ permalink: /team/
   </div>
 </div>
 
-<hr>
+<hr style="margin: 36px 0;">
+
 
 ## Lab Alumni
 
