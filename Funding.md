@@ -12,6 +12,7 @@ permalink: /Funding/
    <img src="/Images/USDA_NIFA.jpg" alt="USDA" style="height: 100px;">
   <img src="/Images/NSERC.png" alt="NSF" style="height: 100px;">
   <img src="/Images/cprc.png" alt="UD" style="height: 100px;">
+    <img src="/Images/DE_EPSCoR.png" alt="UD" style="height: 100px;">
 </div>
 
 #### We also thank our industry collaborators. ####
