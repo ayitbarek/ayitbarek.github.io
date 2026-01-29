@@ -119,4 +119,10 @@ permalink: /team/
     <h3 style="margin-bottom:0;">Makalah Wolfe</h3>
     <p style="margin-top:0;">Summer Student – UD Envision (2024)<br>University of Delaware</p>
   </div>
+  
+  <div>
+    <h3 style="margin-bottom:0;">Sealen Yitbarek</h3>
+    <p style="margin:0 0 4px;">MSc Student (2024 – Present)</p>
+    <p style="margin:0;">Working on nutrient–microbiota–immune relationships in broilers, with an interest in sustainable feed additives.</p>
+  </div>
 </div>
