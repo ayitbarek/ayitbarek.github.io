@@ -61,6 +61,12 @@ permalink: /team/
     <p style="margin:0 0 4px;">MSc Student (2024 – Present)</p>
     <p style="margin:0;">Working on nutrient–microbiota–immune relationships in broilers, with an interest in sustainable feed additives.</p>
   </div>
+
+   <div>
+    <h3 style="margin-bottom:0;">Da’Ja Moultrie</h3>
+    <p style="margin:0 0 4px;">MSc Student (2026 – Present)</p>
+    <p style="margin:0;">Working on feed additive supplementation in ovo for enhanced diseases resistance post-hatch in broiler chickens</p>
+  </div>
 </div>
 
 <!-- Donnell Boney in horizontal format -->
