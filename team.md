@@ -65,7 +65,7 @@ permalink: /team/
    <div>
     <h3 style="margin-bottom:0;">Da’Ja Moultrie</h3>
     <p style="margin:0 0 4px;">MSc Student (2026 – Present)</p>
-    <p style="margin:0;">Working on feed additive supplementation in ovo for enhanced diseases resistance post-hatch in broiler chickens</p>
+    <p style="margin:0;">Working on feed additive supplementation in ovo for enhanced disease resistance post-hatch in broiler chickens</p>
   </div>
 </div>
 
