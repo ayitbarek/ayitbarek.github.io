@@ -21,6 +21,7 @@ How to Apply: Interested candidates should send a cover letter, CV, and contact 
 **Description:** Our lab/department offers summer research training for motivated undergraduate students interested in gaining research experience. Interns will work closely with graduate students and faculty on avian health biology.
 
 **Qualifications:** Applicants should be enrolled in an undergraduate program in biological sciences and have a keen interest in research. Prior lab experience is a plus, but not required.
+
 How to Apply: To apply, send a resume, a brief statement of interest, and an unofficial transcript to [yitbarek@udel.edu](mailto:example@domain.com).
 
 Why Join Us?
