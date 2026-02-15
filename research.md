@@ -34,6 +34,9 @@ We investigate how dietary components, probiotics, and prebiotics influence gut 
 
 - **Feed additives to modulate early life gut microbiome of broiler chickens**  
   Mechanisms of action of feed additives (enzymes, phytogenics) in early gut mcirobiome development.
+
+- **Avian Pathogenic E. coli (APEC) Immunity and Disease Resilience**
+  Investigating host immune mechanisms, correlates of protection, and intervention strategies to reduce colibacillosis in poultry.
 ---
 
 ## Collaborations
