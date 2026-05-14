@@ -17,7 +17,7 @@ permalink: //
 }
 
 .highlights-image {
-  width: 520px;   /* Desktop image size */
+  width: 450px;   /* Desktop image size */
   opacity: 0.92;
 }
 
@@ -28,14 +28,14 @@ permalink: //
 }
 
 /* Mobile / tablet */
-@media (max-width: 800px) {
+@media (max-width: 600px) {
   .recent-highlights {
     display: block;
   }
 
   .highlights-image {
     width: 100%;
-    max-width: 550px;   /* Mobile image size */
+    max-width: 500px;   /* Mobile image size */
     margin-top: 1.5rem;
     margin-left: auto;
     margin-right: auto;
