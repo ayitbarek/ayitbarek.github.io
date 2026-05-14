@@ -6,27 +6,16 @@ permalink: //
 
 <style>
 .home-hero-figure {
-  position: fixed;
-  bottom: 30px;
-  right: 40px;
-  width: 400px;   /* adjust size here */
-  opacity: 0.82;
-  z-index: 10;
+  width: 320px;
+  margin-top: 2rem;
+  margin-left: auto;   /* pushes image to right */
+  opacity: 0.88;
 }
 
 .home-hero-figure img {
   width: 100%;
   border-radius: 16px;
   box-shadow: 0 6px 18px rgba(0,0,0,0.22);
-}
-
-@media (max-width: 900px) {
-  .home-hero-figure {
-    position: static;
-    width: 100%;
-    margin-top: 1.5rem;
-    opacity: 1;
-  }
 }
 </style>
 
