@@ -52,6 +52,7 @@ Our research focuses on:
 - **Microbiome–host interactions**: Exploring how gut microbes influence vaccine outcomes, inflammatory pathways, and resistance to diseases like *Clostridium perfringens* and avian influenza.
 - **Next-generation vaccine development**: Designing and testing innovative delivery systems including **in ovo**, **foam spray**, and **mucosal nanoparticle-based vaccines**.
 - **Nutritional immunology**: Investigating how prebiotics, probiotics, and natural compounds (e.g., phytogenics, selenium, vitamin D) modulate immune and microbial responses.
+- **Swine microbiome & maternal programming**: Investigating how maternal nutrition and gut microbial ecology influence sow health, microbial network stability, nutrient utilization, and piglet growth and resilience in swine production systems.
 
 We work across **basic immunology**, **microbial ecology**, and **applied poultry science**, bridging **academic research** and **industry collaboration**.
 
