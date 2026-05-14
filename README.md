@@ -9,7 +9,7 @@ permalink: //
   position: fixed;
   bottom: 30px;
   right: 40px;
-  width: 4000px;   /* adjust size here */
+  width: 400px;   /* adjust size here */
   opacity: 0.82;
   z-index: 10;
 }
