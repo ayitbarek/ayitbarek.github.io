@@ -6,23 +6,26 @@ permalink: //
 
 <style>
 .home-hero-figure {
-  float: right;
-  width: min(42%, 620px);
-  margin: 0 0 1.5rem 2rem;
-  opacity: 0.88;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 320px;   /* adjust size here */
+  opacity: 0.82;
+  z-index: 10;
 }
 
 .home-hero-figure img {
   width: 100%;
-  border-radius: 18px;
-  box-shadow: 0 8px 24px rgba(0,0,0,0.18);
+  border-radius: 16px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.22);
 }
 
 @media (max-width: 900px) {
   .home-hero-figure {
-    float: none;
+    position: static;
     width: 100%;
-    margin: 1.5rem 0;
+    margin-top: 1.5rem;
+    opacity: 1;
   }
 }
 </style>
