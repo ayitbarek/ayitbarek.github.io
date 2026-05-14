@@ -5,23 +5,41 @@ permalink: //
 ---
 
 <style>
-.home-hero-figure {
-  width: 320px;
-  margin-top: 2rem;
-  margin-left: auto;   /* pushes image to right */
-  opacity: 0.88;
+.recent-highlights {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 2rem;
 }
 
-.home-hero-figure img {
+.highlights-text {
+  flex: 1;
+}
+
+.highlights-image {
+  width: 300px;
+  opacity: 0.9;
+}
+
+.highlights-image img {
   width: 100%;
   border-radius: 16px;
   box-shadow: 0 6px 18px rgba(0,0,0,0.22);
 }
-</style>
 
-<div class="home-hero-figure">
-  <img src="{{ '/Images/Microbiome.png' | relative_url }}" alt="Yitbarek Lab poultry and microbiome research graphic">
-</div>
+@media (max-width: 800px) {
+  .recent-highlights {
+    display: block;
+  }
+
+  .highlights-image {
+    width: 100%;
+    max-width: 320px;
+    margin-top: 1.5rem;
+    margin-left: auto;
+  }
+}
+</style>
 
 ### Advancing Poultry Health Through Immunology, Microbiome Science, and Translational Innovation
 
@@ -39,6 +57,10 @@ We work across **basic immunology**, **microbial ecology**, and **applied poultr
 
 ## 📣 Recent Highlights
 
+<div class="recent-highlights">
+
+<div class="highlights-text">
+
 🧪 **New Paper**: 
 
 📈 **Grant Awarded**: 
@@ -46,5 +68,13 @@ We work across **basic immunology**, **microbial ecology**, and **applied poultr
 🔬 **Trial Launched**: 
 
 📢 **Open Positions**: 
+
+</div>
+
+<div class="highlights-image">
+  <img src="{{ '/Images/Microbiome.png' | relative_url }}" alt="Yitbarek Lab poultry and microbiome research graphic">
+</div>
+
+</div>
 
 ---
