@@ -9,7 +9,7 @@ permalink: //
   display: flex;
   align-items: flex-end;
   justify-content: space-between;
-  gap: 2rem;
+  gap: 2.5rem;
 }
 
 .highlights-text {
@@ -17,8 +17,8 @@ permalink: //
 }
 
 .highlights-image {
-  width: 300px;
-  opacity: 0.9;
+  width: 520px;   /* Desktop image size */
+  opacity: 0.92;
 }
 
 .highlights-image img {
@@ -27,6 +27,7 @@ permalink: //
   box-shadow: 0 6px 18px rgba(0,0,0,0.22);
 }
 
+/* Mobile / tablet */
 @media (max-width: 800px) {
   .recent-highlights {
     display: block;
@@ -34,9 +35,10 @@ permalink: //
 
   .highlights-image {
     width: 100%;
-    max-width: 400px;
+    max-width: 550px;   /* Mobile image size */
     margin-top: 1.5rem;
     margin-left: auto;
+    margin-right: auto;
   }
 }
 </style>
