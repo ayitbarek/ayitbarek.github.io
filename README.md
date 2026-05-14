@@ -34,7 +34,7 @@ permalink: //
 
   .highlights-image {
     width: 100%;
-    max-width: 320px;
+    max-width: 400px;
     margin-top: 1.5rem;
     margin-left: auto;
   }
@@ -57,7 +57,4 @@ We work across **basic immunology**, **microbial ecology**, and **applied poultr
 <div class="highlights-image">
   <img src="{{ '/Images/Microbiome.png' | relative_url }}" alt="Yitbarek Lab poultry and microbiome research graphic">
 </div>
-
-</div>
-
 ---
