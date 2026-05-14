@@ -58,6 +58,6 @@ We work across **basic immunology**, **microbial ecology**, and **applied poultr
 
 ---
 <div class="highlights-image">
-  <img src="{{ '/Images/Microbiome.png' | relative_url }}" alt="Yitbarek Lab poultry and microbiome research graphic">
+  <img src="{{ '/Images/Microbiome2.png' | relative_url }}" alt="Yitbarek Lab poultry and microbiome research graphic">
 </div>
 ---
