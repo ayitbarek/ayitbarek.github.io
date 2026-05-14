@@ -54,23 +54,6 @@ Our research focuses on:
 We work across **basic immunology**, **microbial ecology**, and **applied poultry science**, bridging **academic research** and **industry collaboration**.
 
 ---
-
-## 📣 Recent Highlights
-
-<div class="recent-highlights">
-
-<div class="highlights-text">
-
-🧪 **New Paper**: 
-
-📈 **Grant Awarded**: 
-
-🔬 **Trial Launched**: 
-
-📢 **Open Positions**: 
-
-</div>
-
 <div class="highlights-image">
   <img src="{{ '/Images/Microbiome.png' | relative_url }}" alt="Yitbarek Lab poultry and microbiome research graphic">
 </div>
