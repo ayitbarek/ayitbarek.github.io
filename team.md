@@ -73,12 +73,6 @@ permalink: /team/
     <h3 style="margin-bottom:0;">Aaliyah Smith</h3>
     <p style="margin-top:0;">MSc Student (2024 – 2026)<br>University of Delaware</p>
   </div>
-  
-  <div class="team-grid">
-  <div>
-    <h3 style="margin-bottom:0;">Donnell Boney Jr.</h3>
-    <p style="margin-top:0;">MSc Student (2024 – 2026)<br>University of Delaware</p>
-  </div>
     
 <div class="team-grid">
   <div>
