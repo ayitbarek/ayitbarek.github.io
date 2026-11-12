@@ -63,7 +63,7 @@ permalink: /team/
   </div>
 </div>
 
-
+<hr>
 
 
 ## Lab Alumni
