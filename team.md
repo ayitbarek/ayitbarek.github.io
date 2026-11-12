@@ -63,28 +63,7 @@ permalink: /team/
   </div>
 </div>
 
-<!-- Donnell Boney in horizontal format -->
-<div style="display:flex;gap:8px;align-items:flex-start;flex-wrap:wrap;margin-top:30px;">
 
-  <!-- Image with CV icon -->
-  <div style="position:relative;">
-    <img
-      src="{{ '/Images/DB_5992.jpg' | relative_url }}"
-      alt="Donnell Boney Jr."
-      class="team-img"
-      style="width:200px;height:auto;border-radius:8px;"
-      loading="lazy"
-    >
-    <a href="{{ '/Images/DBoneyCV.pdf' | relative_url }}" target="_blank" class="cv-button-oval"
-       style="position:absolute;bottom:-20px;right:-20px;background:white;border-radius:999px;padding:6px 10px;font-size:13px;font-weight:bold;text-decoration:none;box-shadow:0 4px 10px rgba(0,0,0,0.3);display:inline-flex;align-items:center;gap:6px;color:#00539B;border:1px solid #00539B;">
-      <img src="https://img.icons8.com/ios-filled/50/00539B/resume.png" alt="CV" width="16" height="16">
-      <span>CV</span>
-    </a>
-  </div>
-
-  <!-- Text block -->
-  
-<hr style="margin: 36px 0;">
 
 
 ## Lab Alumni
