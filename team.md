@@ -101,7 +101,7 @@ permalink: /team/
 
 <div class="team-grid">
   <div>
-    <h3 style="margin-bottom:0;">Aalyah Smith</h3>
+    <h3 style="margin-bottom:0;">Aaliyah Smith</h3>
     <p style="margin-top:0;">MSc Student (2024 – 2026)<br>University of Delaware</p>
   </div>
   
