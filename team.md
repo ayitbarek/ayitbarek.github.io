@@ -83,17 +83,7 @@ permalink: /team/
   </div>
 
   <!-- Text block -->
-  <div style="flex:1;min-width:250px;">
-    <h3 style="margin:0;">Donnell Boney Jr.</h3>
-    <p style="margin:0 0 4px;">MSc (Non-Thesis): Project Advising (2025)</p>
-    <p style="margin:0;">
-      Pursuing an MSc in Animal Science with 8 years of experience working with avian species, both wildlife and domestic.
-      Current work includes microbiome–immune interaction studies and feed additive trials in broilers.
-    </p>
-    <p style="margin-top:6px;">Career goal: R&amp;D in animal pharmaceuticals and nutrition.</p>
-  </div>
-</div>
-
+  
 <hr style="margin: 36px 0;">
 
 
@@ -105,6 +95,12 @@ permalink: /team/
     <p style="margin-top:0;">MSc Student (2024 – 2026)<br>University of Delaware</p>
   </div>
   
+  <div class="team-grid">
+  <div>
+    <h3 style="margin-bottom:0;">Donnell Boney Jr.</h3>
+    <p style="margin-top:0;">MSc Student (2024 – 2026)<br>University of Delaware</p>
+  </div>
+    
 <div class="team-grid">
   <div>
     <h3 style="margin-bottom:0;">Ayobami Aboderin</h3>
