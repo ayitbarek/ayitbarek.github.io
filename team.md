@@ -56,12 +56,6 @@ permalink: /team/
     <p style="margin:0;">Focusing on host–microbiome interactions in poultry with implications for gut health and productivity.</p>
   </div>
 
-  <div>
-    <h3 style="margin-bottom:0;">Aaliyah Smith</h3>
-    <p style="margin:0 0 4px;">MSc Student (2024 – Present)</p>
-    <p style="margin:0;">Working on nutrient–microbiota–immune relationships in broilers, with an interest in sustainable feed additives.</p>
-  </div>
-
    <div>
     <h3 style="margin-bottom:0;">Da’Ja Moultrie</h3>
     <p style="margin:0 0 4px;">MSc Student (2026 – Present)</p>
@@ -105,6 +99,12 @@ permalink: /team/
 
 ## Lab Alumni
 
+<div class="team-grid">
+  <div>
+    <h3 style="margin-bottom:0;">Aalyah Smith</h3>
+    <p style="margin-top:0;">MSc Student (2024 – 2026)<br>University of Delaware</p>
+  </div>
+  
 <div class="team-grid">
   <div>
     <h3 style="margin-bottom:0;">Ayobami Aboderin</h3>
